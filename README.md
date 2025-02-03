@@ -5,7 +5,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**
 Here's a quick look at my progress over time:
 
-- **Days Completed**: 34/365
+- **Days Completed**: 35/365
 - **Languages Practiced**: HTML, CSS, JavaScript, React, Node.js
 - **Current Focus**: MERN Stack
 
@@ -57,6 +57,7 @@ Welcome to my **365 Days 365 Codes** project! 🚀 This repository is a collecti
   - **Day 32**: Solving Exercise 3 with another method.
   - **Day 33**: Exercise 4.
   - **Day 34**: CSS Float and clear.
+  - **Day 35**: More on CSS SElectors.
 
 ## 🔥 Getting Started
 
