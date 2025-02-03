@@ -1,0 +1,45 @@
+ /* .box:first-child {
+    background-color: red;
+}
+
+ .box::first-line {
+    color: yellow;
+} 
+.boxes *{
+    border: 2px solid black;
+}
+p ,a,.box,[data-color="primary"]{
+    margin-top: 45px;
+    padding: 30px;
+} 
+ 
+.box:nth-child(odd){
+    background-color: blue;
+}
+.box:nth-last-child(2){
+    background-color: red;
+}
+*/
+.boxes::before{
+    content: "Sahil is good";
+    background-color: rgb(9, 255, 0);
+}
+    
+.boxes::after{
+    content: "Sahil is bad";
+    background-color: red;
+}
+
+::selection{
+    color: aqua;
+    background-color: black;
+}
+
+.box::first-letter{
+    color: rgb(234, 2, 255);
+    font-size: 34px;
+}
+input::placeholder{
+    color: rgb(0, 162, 255);
+    font-size: 34px;
+}
