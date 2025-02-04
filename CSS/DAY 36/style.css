@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Playwrite+AU+SA:wght@100..400&display=swap');
+
+
+/* :root{
+    --primary_color:rgba(93, 5, 255, 0.952);
+    --Text_color:rgba(255, 255, 255, 0.952);
+    --Secoundary_color:rgba(167, 223, 220, 0.445);
+} */
+
+:root{
+    --primary_color:rgb(3, 105, 29);
+    --Text_color:rgb(74, 247, 6);
+    --Secoundary_color:rgba(9, 255, 0, 0.322);
+}
+body{
+    background-color: var(--Secoundary_color);
+}
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Playwrite AU SA", serif;
+}
+
+nav {
+    background-color:var(--primary_color);
+    padding: 12px 0;
+}
+
+ul li {
+    list-style: none;
+    display: inline;
+    padding: 23px;
+    color:var(--Text_color);
+}
+
+ul li a{
+    color:var(--Text_color);
+    text-decoration: none;
+}
