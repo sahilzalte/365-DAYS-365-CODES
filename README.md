@@ -57,7 +57,8 @@ Welcome to my **365 Days 365 Codes** project! 🚀 This repository is a collecti
   - **Day 32**: Solving Exercise 3 with another method.
   - **Day 33**: Exercise 4.
   - **Day 34**: CSS Float and clear.
-  - **Day 35**: More on CSS SElectors.
+  - **Day 35**: More on CSS Selectors.
+  - **Day 36**: CSS Multicolor Website Exercise.
 
 ## 🔥 Getting Started
 
