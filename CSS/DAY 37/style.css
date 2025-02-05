@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Playwrite+AU+SA:wght@100..400&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: "Playwrite AU SA", serif;
+
+}
+
+nav {
+    background-color: rgba(128, 0, 128, 0.726);
+    position: sticky;
+    padding: 34px;
+}
+
+ul li {
+    position: sticky;
+    list-style: none;
+    display: inline;
+    padding: 34px;
+    margin: 12px;
+
+}
+
+.main {
+    border: 2px solid black;
+    padding: 320px;
+    margin: 15px;
+    position: relative;
+    height: 535px;
+    background-color: rgba(0, 128, 0, 0.671);
+}
+
+#a {
+    position: relative;
+    border: 2px solid black;
+
+    padding: 23px;
+    bottom: 10px;
+    width: 810px;
+    right: 300px;
+    bottom: 300px;
+    height: 700px;
+    background-color: rgba(255, 166, 0, 0.623);
+}
+
+
+.two {
+    position: relative;
+    left: 700px;
+    width: 800px;
+    border: 2px solid black;
+    padding: 23px;
+    bottom: 1050px;
+    height: 700px;
+    background-color: rgba(0, 140, 255, 0.61);
+}
+
+#radius {
+    position: relative;
+    bottom: 1050px;
+    border-radius: 90px;
+    box-sizing: border-box ;
+    font-size:x-large;
+    margin: 19px;
+    padding: 20px;
+    border: 4px solid black;
+}
+
+.img{
+    width: 300px;
+    height: 200px;
+    bottom: 80px;
+    position: fixed;
+    background-image: url('Logo.png');
+    background-size: cover; /* Adjusts the image to cover the div */
+    background-position: center; /* Centers the image */
+  }
