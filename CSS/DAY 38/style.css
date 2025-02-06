@@ -1,0 +1,42 @@
+.container {
+    border: 2px solid red;
+    display: flex;
+    height: 80vh;
+    /* justify-content: center; */
+    align-items: center;
+    /* flex-direction: column; */
+    flex-wrap: wrap;
+    /* align-content: flex-start; */
+    /* there is no justify-items in flexbox */
+    flex-flow: row wrap;
+    /* gap: 30px;     */
+    /* row-gap: 40px; */
+    /* column-gap: 10px; */
+    gap: 40px 20px;
+}
+
+.item {
+    flex-grow: 1;
+    border: 2px solid black;
+    height: 92px;
+    width: 92px;
+    /* margin: 4px; */
+    background-color: blueviolet;
+
+}
+.item1{
+    flex-grow: 4;
+    flex-shrink: 2;
+}
+
+.order1 {
+    order: 100;
+}
+
+.order2 {
+    order: 2;
+}
+
+.order3 {
+    order: 3;
+}
