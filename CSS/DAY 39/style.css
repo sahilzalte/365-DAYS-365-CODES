@@ -1,0 +1,37 @@
+.container {
+    width: 80vw;
+    height: 100vh;
+    border: 2px solid black;
+    display: grid;
+    /* grid-template-columns: [pehla] 120px [doosra] 100px [t]; */
+    /* grid-template-rows: 100px 100px 100px; */
+    /* grid-template-columns: repeat(4, minmax(100px, 1fr)); */
+    grid-template-columns: repeat(4, 80px);
+    grid-template-rows: repeat(2, 80px);
+    /* gap: 34px; */
+    row-gap: 10px;
+    column-gap: 44px;
+    justify-items: center;
+    align-items: center;
+}
+
+.item {
+    border: 2px solid red;
+    height: 55px;
+    width: 55px;
+}
+
+.item-4 {
+    /* grid-row: 1/2;
+    grid-column: pehla/t; */
+}
+
+.item-1 {
+    /* grid-row: 1/2; */
+    /* or you can do  */
+    /* grid-row-start: 1;
+    grid-row-end: 2; */
+
+    /* same thing */
+    /* grid-column: 1/2; */
+}
