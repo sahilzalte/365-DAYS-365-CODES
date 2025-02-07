@@ -5,7 +5,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**
 Here's a quick look at my progress over time:
 
-- **Days Completed**: 38/365
+- **Days Completed**: 39/365
 - **Languages Practiced**: HTML, CSS, JavaScript, React, Node.js
 - **Current Focus**: MERN Stack
 
@@ -61,6 +61,7 @@ Welcome to my **365 Days 365 Codes** project! 🚀 This repository is a collecti
   - **Day 36**: CSS Multicolor Website Exercise.
   - **Day 37**: Exercise 5.
   - **Day 38**: CSS Flexbox.
+  - **Day 39**: CSS Grid Property.
 
 ## 🔥 Getting Started
 
