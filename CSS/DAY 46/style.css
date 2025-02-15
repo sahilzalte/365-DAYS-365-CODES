@@ -1,0 +1,59 @@
+.container {
+    background-color: rgb(3, 218, 21);
+    height: 80vh;
+    width: 30vw;
+}
+
+.box {
+    width: 34px;
+    height: 45px;
+    background-color: aqua;
+    /* animation: SahilAnimation 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: cubic-bezier(0, 0, 0, 0.96);
+    animation-delay: 5s;    
+    animation-direction: alternate;
+    animation-play-state: running ; */
+    /* animation: name duration timing-function delay iteration-count direction fill-mode; */
+    animation: SahilAnimation 1s ease-in-out 3s 1 backwards,
+               Sahil 1s ease-in-out 3s 1 backwards;
+}
+
+
+@keyframes SahilAnimation {
+    from {
+        background-color: red;
+    }
+
+    to {
+        transform: translate(1000px);
+        background-color: yellow;
+    }
+}
+
+
+@keyframes Sahil {
+    0% {
+        transform: rotate(100deg);
+    }
+
+    20% {
+        transform: rotate(200deg);
+
+    }
+
+    50% {
+        transform: rotate(220deg);
+
+    }
+
+    80% {
+        transform: rotate(300deg);
+
+    }
+
+    1010% {
+        transform: rotate(310deg);
+
+    }
+}
