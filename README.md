@@ -5,7 +5,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**
 Here's a quick look at my progress over time:
 
-- **Days Completed**: 47/365
+- **Days Completed**: 48/365
 - **Languages Practiced**: HTML, CSS, JavaScript, React, Node.js
 - **Current Focus**: MERN Stack
 
@@ -70,6 +70,7 @@ Welcome to my **365 Days 365 Codes** project! 🚀 This repository is a collecti
   - **Day 45**: Transition Effect in CSS.
   - **Day 46**: CSS Animation.
   - **Day 47**: Exercise 7 Solution.
+  - **Day 48**: Exercise 8.
 
 ## 🔥 Getting Started
 
