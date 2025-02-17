@@ -1,0 +1,21 @@
+.container {
+    width: 466px;
+    height: 488px;
+    border: 2px solid black;
+    /* background-color: azure; */
+
+    background: url('image.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+
+}
+
+img {
+    width: 466px;
+    height: 488px;
+    object-fit: contain;
+    /* object-fit: fill; */
+    /* object-fit: contain; */
+    object-position: 10px 20px;
+    /* object-position: bottom right;     */
+}
