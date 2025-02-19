@@ -5,7 +5,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**
 Here's a quick look at my progress over time:
 
-- **Days Completed**: 50/365
+- **Days Completed**: 51/365
 - **Languages Practiced**: HTML, CSS, JavaScript, React, Node.js
 - **Current Focus**: MERN Stack
 
@@ -73,6 +73,7 @@ Welcome to my **365 Days 365 Codes** project! 🚀 This repository is a collecti
   - **Day 48**: Exercise 8.
   - **Day 49**: CSS object-fit & Position.
   - **Day 50**: CSS Filters.
+  - **Day 51**: Exercise 8 Solution.
 
 ## 🔥 Getting Started
 
