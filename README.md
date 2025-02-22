@@ -75,8 +75,9 @@ Welcome to my **365 Days 365 Codes** project! 🚀 This repository is a collecti
   - **Day 50**: CSS Filters.
   - **Day 51**: Exercise 8 Solution.
   - **Day 52**: Basic Figma Introduction and Uses of Figma in Web Development to design the website Structure.
-  - **Day 52**: Netfix Clone Using Html and CSS.
+  - **Day 53**: Netfix Clone Using Html and CSS.
   - **After That The CSS Has Been Complete Successfully.**
+  - **Day 54**: Introduction To JavaScript And Installing Node.js.
 
 ## 🔥 Getting Started
 
