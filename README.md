@@ -5,7 +5,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**
 Here's a quick look at my progress over time:
 
-- **Days Completed**: 53/365
+- **Days Completed**: 55/365
 - **Languages Practiced**: HTML, CSS, JavaScript, React, Node.js
 - **Current Focus**: MERN Stack
 
@@ -78,6 +78,7 @@ Welcome to my **365 Days 365 Codes** project! 🚀 This repository is a collecti
   - **Day 53**: Netfix Clone Using Html and CSS.
   - **After That The CSS Has Been Complete Successfully.**
   - **Day 54**: Introduction To JavaScript And Installing Node.js.
+  - **Day 55**: JavaScript Variable and Objects.
 
 ## 🔥 Getting Started
 
