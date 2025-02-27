@@ -1,0 +1,30 @@
+Making Faulty Calculator
+
+This Faulty calculator Following:
+1.It Takes two number as input from user
+2.It performs wrong operations as follow
+
++   --> -
+*   --> +
+-   --> /
+/   --> *
+
+It performs wrong operation 10% of the times
+
+check this 
+a = 80
+b = 8
+
+console.log("*-----Basic Calculator----*");
+
+
+if (Math.random(1, 10))
+    console.log("Addtion is :" + a + b);
+    console.log("Subtraction is :" + (a - b));
+    console.log("Multiplication is :" + a * b);
+    console.log("Division is :" + a / b);
+
+console.log("Addtion is :" + (a - b));
+console.log("Subtraction is :" + (a / b));
+console.log("Multiplication is :" + a + b);
+console.log("Division is :" + a ** b);
