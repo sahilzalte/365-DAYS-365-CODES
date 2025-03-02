@@ -1,0 +1,18 @@
+create a bussiness name genrator by combining a list of adjectives and shop name and another word
+
+Adjective List 
+
+Crazy 
+Amazing 
+Fire
+
+Shop Name:
+Engine 
+Foods
+Garments
+
+Another word:
+Bros
+Limited
+Hub
+
