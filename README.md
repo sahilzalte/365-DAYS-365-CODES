@@ -5,7 +5,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**
 Here's a quick look at my progress over time:
 
-- **Days Completed**: 67/365
+- **Days Completed**: 68/365
 - **Languages Practiced**: HTML, CSS, JavaScript, React, Node.js
 - **Current Focus**: MERN Stack
 
@@ -91,6 +91,7 @@ Welcome to my **365 Days 365 Codes** project! 🚀 This repository is a collecti
   - **Day 65**: Exercise 11.
   - **Day 66**: JavaScript DOM.
   - **Day 67**: How to access JavaScript Node Parent Children.
+  - **Day 68**: JavaScript - Selecting ids, classes, and more.
 
 ## 🔥 Getting Started
 
