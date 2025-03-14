@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event Bubbling</title>
+    <style>
+        .child {
+            background-color: rgb(0, 255, 234);
+            padding: 14px;
+            margin: 14px;
+            border: 2px solid black;
+            cursor: pointer;
+        }
+
+        .childContainer {
+            background-color: rgb(255, 0, 234);
+            padding: 14px;
+            margin: 14px;
+
+        }
+
+        .container {
+            background-color: rgb(0, 255, 128);
+            padding: 14px;
+            margin: 14px;
+
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        Container
+        <section class="childContainer">
+            Child Container
+            <div class="child">I am a child</div>
+        </section>
+    </div>
+    <script>
+        document.querySelector(".child").addEventListener("click", (e) => {
+            e.stopPropagation()
+            alert("Child Was Clicked")
+        })
+
+        document.querySelector(".childContainer").addEventListener("click", (e) => {
+            e.stopPropagation()
+            alert("ChildContainer Was Clicked")
+        })
+
+        document.querySelector(".container").addEventListener("click", (e) => {
+            // e.stopPropagation()
+            alert("Container Was Clicked")
+        })
+
+        function getRandomColor() {
+            return `rgb(${Math.round(Math.random() * 255)},${Math.round(Math.random() * 255)},${Math.round(Math.random() * 255)})`
+        }
+        // this is for repeating the color change
+        // let a = setInterval(() => {
+        //     document.querySelector(".childContainer").style.backgroundColor = getRandomColor()
+        // }, 1000)
+
+        // this is for changing the color only once
+        let a = setTimeout(() => {
+            document.querySelector(".childContainer").style.backgroundColor = getRandomColor()
+        }, 1000)
+
+        console.log(a)
+
+    </script>
+</body>
+
+</html>
