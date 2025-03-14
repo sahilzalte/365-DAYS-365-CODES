@@ -5,7 +5,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**
 Here's a quick look at my progress over time:
 
-- **Days Completed**: 73/365
+- **Days Completed**: 74/365
 - **Languages Practiced**: HTML, CSS, JavaScript, React, Node.js
 - **Current Focus**: MERN Stack
 
@@ -97,6 +97,7 @@ Welcome to my **365 Days 365 Codes** project! 🚀 This repository is a collecti
   - **Day 71**: Add and Remove Elements In JavaScript.
   - **Day 72**: Exercise 12 Solution.
   - **Day 73**: Exercise 13.
+  - **Day 74**: Event Bubbling & Event Listener.
 
 ## 🔥 Getting Started
 
