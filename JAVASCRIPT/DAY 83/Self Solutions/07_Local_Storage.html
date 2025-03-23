@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>07 Local Storage</title>
+</head>
+
+<body>
+    <button> Add note</button>
+    <p id="noteDisplay"></p> <!-- A paragraph to display the note -->
+
+    <script>
+        function saveNoteToLocalStorage(note) {
+            localStorage.setItem("note", note);
+        }
+
+        // Retrieve the note and display it
+        let note = localStorage.getItem("note");
+        document.getElementById("noteDisplay").textContent = note ? note : "No notes saved.";
+
+        document.querySelector("button").addEventListener("click", () => {
+            let a = prompt("Enter Your note:");
+            if (a) {
+                saveNoteToLocalStorage(a);  // Save the user input
+                document.getElementById("noteDisplay").textContent = a; // Update the note display
+            }
+        });
+    </script>
+</body>
+
+</html>
