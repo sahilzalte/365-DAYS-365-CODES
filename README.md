@@ -5,7 +5,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**
 Here's a quick look at my progress over time:
 
-- **Days Completed**: 82/365
+- **Days Completed**: 83/365
 - **Languages Practiced**: HTML, CSS, JavaScript, React, Node.js
 - **Current Focus**: MERN Stack
 
@@ -106,6 +106,7 @@ Welcome to my **365 Days 365 Codes** project! 🚀 This repository is a collecti
   - **Day 80**: JavaScript Classes & Objects with Getter And Setter.
   - **Day 81**: Exercise 14 Solution.
   - **Day 82**: Advanced JavaScript.
+  - **Day 83**: Advanced JavaScript Interview Questions.
 
 ## 🔥 Getting Started
 
