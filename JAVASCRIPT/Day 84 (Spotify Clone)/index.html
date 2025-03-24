@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spotify - Web Player: Music for everyone</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/utility.css">
+</head>
+
+<body>
+    <div class="container flex bg-black">
+
+        <div class="left">
+            <div class="close">
+                <img width="30" class="invert" src="img/close.svg" alt="">
+            </div>
+            <div class="home bg-gray rounded m-1 p-1">
+                <div class="logo"><img width="110" class="invert" src="img/logo.svg" alt=""></div>
+                <ul>
+                    <li>
+                        <img class="invert" src="img/home.svg" alt="Home">Home
+                    </li>
+                </ul>
+                <ul>
+                    <li>
+                        <img class="invert" src="img/search.svg" alt="Search">Search
+                    </li>
+                </ul>
+            </div>
+
+            <div class="library bg-gray rounded m-1 p-1">
+                <div class="heading">
+                    <img class="invert" src="img/playlist.svg" alt="">
+                    <h2>
+                        Your Library
+                    </h2>
+                </div>
+                <div class="songList">
+
+                    <ul>
+
+                    </ul>
+                </div>
+                <div class="footer" id="footer">
+                    <div><a href="https://github.com/sahilzalte" target="_blank"><span>Github</span></a></div>
+                    <div><a href="https://partfolio-website.vercel.app/contact.html"
+                            target="_blank"><span>Contact</span></a></div>
+                    <div><a href="https://sahilzalte.netlify.app/" target="_blank"><span>Netflix</span></a>
+                    </div>
+                    <div><a href="https://clonezomatobys.netlify.app/" target="_blank"><span>Zomato</span></a>
+                    </div>
+                    <div><a href="https://partfolio-website.vercel.app/projects.html" target="_blank"><span>More
+                                Projects</span></a></div>
+                </div>
+            </div>
+
+        </div>
+        <div class="right bg-gray rounded  ">
+            <div class="header">
+                <div class="nav">
+                    <div class="hamburgerContainer">
+
+                        <img width="40" class="invert hamburger" src="img/hamburger.svg" alt="">
+                    </div>
+                </div>
+                <div class="Sahil">
+                    <h1>Sahil</h1>
+                </div>
+            </div>
+            <div class="spotifyplaylist">
+                <h1>Sahil Playlists</h1>
+                <div class="cardContainer">
+                </div>
+
+            </div>
+            <div class="playbar">
+
+                <div class="seekbar">
+                    <div class="circle">
+
+                    </div>
+                </div>
+
+                <div class="abovebar">
+                    <div class="songinfo">
+
+                    </div>
+                    <div class="songbuttons">
+                        <img width="35" id="previous" src="img/prevsong.svg" alt="">
+                        <img width="35" id="play" src="img/play1.svg" alt="">
+                        <img width="35" id="next" src="img/nextsong.svg" alt="">
+                    </div>
+                    <div class="timeval">
+                        <div class="songtime">
+                        </div>
+                        <div class="volume">
+                            <img width="25" src="img/volume.svg" alt="">
+                            <div class="range">
+                                <input type="range" name="volume" id="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="module" src="js/script.js"></script>
+</body>
+
+</html>
