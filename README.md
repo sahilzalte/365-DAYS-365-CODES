@@ -5,7 +5,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**
 Here's a quick look at my progress over time:
 
-- **Days Completed**: 98/365
+- **Days Completed**: 99/365
 - **Languages Practiced**: HTML, CSS, JavaScript, React, Node.js
 - **Current Focus**: MERN Stack
 
@@ -131,6 +131,7 @@ Welcome to my **365 Days 365 Codes** project! 🚀 This repository is a collecti
   - **Day 95:** CRUD Operations in MongoDB.
   - **Day 96:** Installing Mongoose & Using It With Express.
   - **Day 97:** Exercise 16.
+  - **Day 99:** Exercise 16 Solution.
   - **MongoDB Completed Successfully.**  
 
   - **Day 98:** Complete Tailwind CSS Tutorial.
