@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Without React</title>
+</head>
+
+<body>
+    <div class="counter">0</div>
+    <button id="btn">Click me</button>
+    <script>
+        document.getElementById("btn").addEventListener("click", () => {
+            let num = parseInt(document.querySelector(".counter").innerHTML)
+            document.querySelector(".counter").innerHTML = num + 1
+        });
+    </script>
+</body>
+
+</html>
