@@ -1,27 +1,29 @@
-# 365 Days 365 Codes ♑
+# 365 Days 365 Codes ♑  
 _**This project is licensed under the **MIT License**. You can read the full license here:**_  
-![365 Days 365 Codes License](https://github.com/sahilzalte/365-DAYS-365-CODES/raw/main/365%20Days%20Code%20Licence.png)
+![365 Days 365 Codes License](https://github.com/sahilzalte/365-DAYS-365-CODES/raw/main/365%20Days%20Code%20Licence.png)  
 <br>
-📊 **Progress Tracker**
+
+📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-- **Days Completed**: 107/365
-- **Languages Practiced**: HTML, CSS, JavaScript, React, Node.js
-- **Current Focus**: MERN Stack
+  - **Days Completed**: `108/365`
+  - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React`, `Node.js`, `MongoDB`, `Express`, `Tailwind CSS`.
+  - **Current Focus**: `MERN Stack`
 
-Welcome to my **365 Days 365 Codes** project! 🚀 This repository is a collection of **daily coding challenges** and solutions that I have worked on over the span of **365 days**. The goal of this project is to improve my problem-solving skills, learn new algorithms, and enhance my coding proficiency.
+  Welcome to my **365 Days 365 Codes** project! 🚀 This repository is a collection of **daily coding challenges** and solutions that I have worked on over the span of **365 days**. The goal of this project is to improve my problem-solving skills, learn new algorithms, and enhance my coding proficiency.
 
-### Project Highlights
-- 🌱 **Growth**: Every day, I tackle a new challenge to strengthen my skills in different areas like **Data Structures**, **Algorithms**, and **Web Development**.
-- 💻 **Technologies Used**: HTML, CSS, JavaScript, MERN Stack, and more!
-- 🌍 **Objective**: To solve one coding problem every day for **365 days**.
+  ### Project Highlights
+  - 🌱 **Growth**: Every day, I tackle a new challenge to strengthen my skills in different areas like `Data Structures`, `Algorithms`, and `Web Development`.
+  - 💻 **Technologies Used**: `HTML`, `CSS`, `JavaScript`, `MERN Stack`, and more!
+  - 🌍 **Objective**: To solve one coding problem every day for `365 days`.
 
-## 🚀 Project Overview
+  ## 🚀 Project Overview
 
-- **Objective**: Push myself to solve a new coding problem each day for 365 days.
-- **Technologies Used**: HTML, CSS, JavaScript, MERN Stack.
-- **Challenges**: Covers topics like algorithms, data structures, mathematics, and building functional web applications.
-- **Repository Structure**:
+  - **Objective**: Push myself to solve a new coding problem each day for `365 days`.
+  - **Technologies Used**: `HTML`, `CSS`, `JavaScript`, `MERN Stack`.
+  - **Challenges**: Covers topics like algorithms, data structures, mathematics, and building functional web applications.
+  - **Repository Structure**:
+
   ### Daily Progress Log
 
   - **Day 1**: Basic Introduction. 🌱  
@@ -90,7 +92,7 @@ Welcome to my **365 Days 365 Codes** project! 🚀 This repository is a collecti
   - **Day 60**: JavaScript Strings and Functions.  
   - **Day 61**: Exercise 9 Solution.  
   - **Day 62**: Exercise 10.  
-  - **Day 63**: JavaScript Array Loops and Map/Filter.  
+  - **Day 63**: JavaScript Array Loops and `map` | `filter`.  
   - **Day 64**: Exercise 10 Solution.  
   - **Day 65**: Exercise 11.  
   - **Day 66**: JavaScript DOM.  
@@ -103,56 +105,57 @@ Welcome to my **365 Days 365 Codes** project! 🚀 This repository is a collecti
   - **Day 73**: Exercise 13.  
   - **Day 74**: Event Bubbling & Event Listeners.  
   - **Day 75**: JavaScript Callbacks & Promises.  
-  - **Day 76**: JavaScript Async and Await.  
+  - **Day 76**: JavaScript `async` and `await`.  
   - **Day 77**: Exercise 13 Solution.  
   - **Day 78**: Exercise 14.  
   - **Day 79**: Error Handling in JavaScript.  
-  - **Day 80**: JavaScript Classes & Objects with Getters and Setters.  
+  - **Day 80**: JavaScript Classes & Objects with `getters` and `setters`.  
   - **Day 81**: Exercise 14 Solution.  
   - **Day 82**: Advanced JavaScript.  
   - **Day 83**: Advanced JavaScript Interview Questions.  
   - **Day 84**: Spotify Clone Using HTML, CSS, and JavaScript.  
   - **JavaScript Completed Successfully.**  
 
-  - **Day 85**: Backend, Node.js, & npm.  
-  - **Day 86**: CommonJS vs ECMAScript Modules.  
-  - **Day 87**: Working with Files: `fs` and `path` Modules in Node.js.
+  - **Day 85**: Backend, Node.js, & `npm`.  
+  - **Day 86**: `CommonJS` vs `ECMAScript Modules`.  
+  - **Day 87**: Working with Files: `fs` and `path` Modules in Node.js.  
   - **NodeJs Completed Successfully.**  
 
-  - **Day 88**: Introduced to Express.js.
-  - **Day 89:** Learned about Response, Request, and Routes in Express.js.
-  - **Day 90:** Middelware in Express.js.
-  - **Day 91:** Exercise 15.
-  - **Day 92:** EJS Template Engine in Express.
-  - **Day 93:** Exercise 15 Solution.
+  - **Day 88**: Introduced to Express.js.  
+  - **Day 89**: Learned about `Response`, `Request`, and `Routes` in Express.js.  
+  - **Day 90**: Middleware in Express.js.  
+  - **Day 91**: Exercise 15.  
+  - **Day 92**: `EJS` Template Engine in Express.  
+  - **Day 93**: Exercise 15 Solution.  
   - **ExpressJs Completed Successfully.**  
 
-  - **Day 94:** Installing MongoDB & MongoDB Compass.
-  - **Day 95:** CRUD Operations in MongoDB.
-  - **Day 96:** Installing Mongoose & Using It With Express.
-  - **Day 97:** Exercise 16.
-  - **Day 99:** Exercise 16 Solution.
+  - **Day 94**: Installing MongoDB & MongoDB Compass.  
+  - **Day 95**: CRUD Operations in MongoDB.  
+  - **Day 96**: Installing Mongoose & Using It With Express.  
+  - **Day 97**: Exercise 16.  
+  - **Day 99**: Exercise 16 Solution.  
   - **MongoDB Completed Successfully.**  
 
-  - **Day 98:** Complete Tailwind CSS Tutorial.
-  - **Day 100:** Exercise 17.
-  - **Day 101:** Twitter UI Clone Using Tailwind CSS.
-  - **Day 102:** Exercise 17 Solution.
+  - **Day 98**: Complete Tailwind CSS Tutorial.  
+  - **Day 100**: Exercise 17.  
+  - **Day 101**: Twitter UI Clone Using Tailwind CSS.  
+  - **Day 102**: Exercise 17 Solution.  
   - **Tailwind CSS Completed Successfully.**  
 
-  - **Day 103:** Introduction to web hosting.
-  - **Day 104:** How to host Node.js apps on Ubuntu.
-  - **Hosting Completed Successfully.**
+  - **Day 103**: Introduction to web hosting.  
+  - **Day 104**: How to host Node.js apps on Ubuntu.  
+  - **Hosting Completed Successfully.**  
 
-  - **Day 105:** Introduction to React and Why We Use It.
-  - **Day 106:** Components, Props, and JSX in React.
-  - **Day 107:** Hooks and State in React.
-  
+  - **Day 105**: Introduction to React and Why We Use It.  
+  - **Day 106**: Components, Props, and JSX in React.  
+  - **Day 107**: Hooks and State in React.  
+  - **Day 108**: The `useEffect` Hook in React.  
+
 ## 🔥 Getting Started
 
 To explore the solutions, follow these steps:
 
-1. **Clone the repository** to your local machine:
+1. **Clone the repository** to your local machine:  
    ```bash
    git clone https://github.com/sahilzalte/365-DAYS-365-CODES.git
    ```
