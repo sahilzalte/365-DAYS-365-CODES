@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `108/365`
+  - **Days Completed**: `109/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React`, `Node.js`, `MongoDB`, `Express`, `Tailwind CSS`.
   - **Current Focus**: `MERN Stack`
 
@@ -150,6 +150,7 @@ Here's a quick look at my progress over time:
   - **Day 106**: Components, Props, and JSX in React.  
   - **Day 107**: Hooks and State in React.  
   - **Day 108**: The `useEffect` Hook in React.  
+  - **Day 109**: The `useRef` Hook in React.  
 
 ## 🔥 Getting Started
 
