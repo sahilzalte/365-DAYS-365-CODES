@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `116/365`
+  - **Days Completed**: `117/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React`, `Node.js`, `MongoDB`, `Express`, `Tailwind CSS`.
   - **Current Focus**: `MERN Stack`
 
@@ -158,6 +158,7 @@ Here's a quick look at my progress over time:
   - **Day 114**: Todo List App Using React.  
   - **Day 115**: React Router : Routing in React.  
   - **Day 116**: The useContext hook in React.
+  - **Day 117**: The useMemo hook in React.
 
 ## 🔥 Getting Started
 
