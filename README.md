@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `120/365`
+  - **Days Completed**: `121/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React`, `Node.js`, `MongoDB`, `Express`, `Tailwind CSS`.
   - **Current Focus**: `MERN Stack`
 
@@ -153,16 +153,18 @@ Here's a quick look at my progress over time:
   - **Day 109**: The `useRef` Hook in React.  
   - **Day 110**: `Conditional` Rendering and Rendering `Lists` in React.  
   - **Day 111**: Exercise 18.  
-  - **Day 112**: Event Handling in React.  
+  - **Day 112**: `Event` Handling in React.  
   - **Day 113**: Exercise 18 Solution.  
   - **Day 114**: Todo List App Using React.  
-  - **Day 115**: React Router : Routing in React.  
-  - **Day 116**: The useContext hook in React.
-  - **Day 117**: The useMemo hook in React.
-  - **Day 118**: The useCallback hook in React.
-  - **Day 119**: Handling Forms + Connecting React to Express Backend.
-  - **Day 120**: The Redux Toolkit in React.
+  - **Day 115**: React `Router` : Routing in React.  
+  - **Day 116**: The `useContext` hook in React.
+  - **Day 117**: The `useMemo` hook in React.
+  - **Day 118**: The `useCallback` hook in React.
+  - **Day 119**: Handling Forms + Connecting React to `Express` Backend.
+  - **Day 120**: The `Redux` Toolkit in React.
   - **React Completed Successfully.**
+
+  - **Day 121**: Introduction to `Next.js` & File-Based Routing.
 
 ## 🔥 Getting Started
 
