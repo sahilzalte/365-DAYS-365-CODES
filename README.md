@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `121/365`
+  - **Days Completed**: `122/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React`, `Node.js`, `MongoDB`, `Express`, `Tailwind CSS`.
   - **Current Focus**: `MERN Stack`
 
@@ -165,6 +165,7 @@ Here's a quick look at my progress over time:
   - **React Completed Successfully.**
 
   - **Day 121**: Introduction to `Next.js` & File-Based Routing.
+  - **Day 122**: Server `Components` in Next.js.
 
 ## 🔥 Getting Started
 
