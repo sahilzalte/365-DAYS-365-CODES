@@ -6,8 +6,8 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `126/365`
-  - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React`, `Node.js`, `MongoDB`, `Express`, `Tailwind CSS`.
+  - **Days Completed**: `127/365`
+  - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React`, `Node.js`, `MongoDB`, `Express`, `Tailwind CSS` , `Next.js`.
   - **Current Focus**: `MERN Stack`
 
   Welcome to my **365 Days 365 Codes** project! 🚀 This repository is a collection of **daily coding challenges** and solutions that I have worked on over the span of **365 days**. The goal of this project is to improve my problem-solving skills, learn new algorithms, and enhance my coding proficiency.
@@ -170,6 +170,7 @@ Here's a quick look at my progress over time:
   - **Day 124**: Creating `APIs` in Next.js.
   - **Day 125**: `Server Actions` in Next.js.
   - **Day 126**: `Middleware` in Next.js.
+  - **Day 127**: `Auth.js` - Authentication in Next.js.
   
 
 ## 🔥 Getting Started
