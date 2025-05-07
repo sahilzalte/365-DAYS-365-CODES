@@ -1,0 +1,85 @@
+<!-- Complte this automatically in java-->
+Q1.Name the Warraper class methods for the following:
+    1. to convert string objects to primitive int
+
+    2. to convert primitive int to string
+
+Q2. Explain dynamic method dispatch with an example.
+
+Q3. Access Specifiers in Java.
+
+Q4. Describe the use of any methods of vector class with thier syntax.
+
+Q5. state the significance of java virtual machine in the java programming environnment.
+
+Q6. Finalize () method with thier syntax and example.
+
+Q7. What is the difference between an abstract class and an interface?
+
+Q8. Operators in Java.
+
+Q9. Throws and throw keywords in Java.
+
+Q10. Program for sqrt() and pow() to calculate square root and power of a number.
+
+Q11. Final keyword with suitable example.
+
+Q12. Program to demondtrate the use of conditional operator and switch case statement.
+
+Q13. Dra and Exaplin life cycle of a thread.
+
+Q14. Explain Garbage collection Machanism in Java with suitable example.
+
+Q15. Vector class methods with their syntax (any six methods)
+
+Q16. Diffrentiate between string and string buffer class.
+
+Q17. Define Exception state built in exception in java.
+
+Q18. Diffrentiate between class and interface.
+
+Q19. Define type casting and explain the two types of type casting in java.
+
+Q20. Diffrentiate between array and vector class.
+
+Q21. List any 8 method of string class with their syntax use also.
+
+Q22. List any 8 method of string buffer class with their syntax use also.
+
+Q23. Give the syntax of the following:
+
+     1.min()
+
+     2.sqrt()
+
+Q24. Enlist any 4 inbuilt packages in java.
+
+Q25. Enlist any 6 compile time and run time errors in java.
+
+Q26. Fetaures of java 10 .
+
+Q27. Explain exception handling Machanism W.R.T. try, catch ,throwand finally block.
+
+Q28. Explain any four visibility control in java.
+
+Q29. Explain the difference between string class and string buffer class.
+
+Q30. Give syntax of following Thread followings:
+
+    1.start()
+
+    2.sleep()
+
+    3.notify()
+
+    4.wait()
+
+    5.join()
+
+    6.yield()
+
+    7.run()
+
+    8.stop()
+
+Q31. Use of Garbage collectionin java
