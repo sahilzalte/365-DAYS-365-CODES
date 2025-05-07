@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `127/365`
+  - **Days Completed**: `128/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React`, `Node.js`, `MongoDB`, `Express`, `Tailwind CSS` , `Next.js`.
   - **Current Focus**: `MERN Stack`
 
@@ -171,6 +171,7 @@ Here's a quick look at my progress over time:
   - **Day 125**: `Server Actions` in Next.js.
   - **Day 126**: `Middleware` in Next.js.
   - **Day 127**: `Auth.js` - Authentication in Next.js.
+  - **Day 128**: `Dynamic Routes` in Next.js.
   
 
 ## 🔥 Getting Started
