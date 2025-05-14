@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `134/365`
+  - **Days Completed**: `135/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React`, `Node.js`, `MongoDB`, `Express`, `Tailwind CSS` , `Next.js`.
   - **Current Focus**: `MERN Stack`
 
@@ -178,6 +178,7 @@ Here's a quick look at my progress over time:
   - **Day 132**: Understanding `next/navigation` module in Next.js.
   - **Day 133**: `SSR, SSG, ISR` in Next.js.
   - **Day 134**: `Environment Variables` in Next.js.
+  - **Day 135**: `Styled JSX` and Other Ways to `Style` in Next.js.
   
 
 ## 🔥 Getting Started
