@@ -6,8 +6,8 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `138/365`
-  - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React`, `Node.js`, `MongoDB`, `Express`, `Tailwind CSS` , `Next.js`.
+  - **Days Completed**: `139/365`
+  - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS` , `Next.js`.
   - **Current Focus**: `MERN Stack`
 
   Welcome to my **365 Days 365 Codes** project! 🚀 This repository is a collection of **daily coding challenges** and solutions that I have worked on over the span of **365 days**. The goal of this project is to improve my problem-solving skills, learn new algorithms, and enhance my coding proficiency.
@@ -25,7 +25,7 @@ Here's a quick look at my progress over time:
   - **Repository Structure**:
 
   ### Daily Progress Log
-
+  - *HTML Development Initiated.*  
   - **Day 1**: Basic Introduction. 🌱  
   - **Day 2**: Creating Our First Website. 🌍  
   - **Day 3**: Adding External Files to `index.html` (like `Script.js` or `Style.css`). 📄  
@@ -40,7 +40,8 @@ Here's a quick look at my progress over time:
   - **Day 12**: Exercise 1 - Media Player Using HTML Only.  
   - **Day 13**: Entities, Code Tag, and New Features.  
   - **HTML Completed Successfully.**  
-
+  ---
+  - *CSS Development Initiated.*  
   - **Day 14**: Basic Introduction to CSS.  
   - **Day 15**: Inline, Internal, and External CSS.  
   - **Day 16**: History of CSS and File Creation Using AI.  
@@ -82,7 +83,8 @@ Here's a quick look at my progress over time:
   - **Day 52**: Basic Figma Introduction and Its Uses in Web Development.  
   - **Day 53**: Netflix Clone Using HTML and CSS.  
   - **CSS Completed Successfully.**  
-
+  ---
+  - *JavaScript Development Initiated.*  
   - **Day 54**: Introduction to JavaScript and Installing Node.js.  
   - **Day 55**: JavaScript Variables and Objects.  
   - **Day 56**: JavaScript Conditionals: `if`, `else if`, `else` Ladder.  
@@ -115,12 +117,14 @@ Here's a quick look at my progress over time:
   - **Day 83**: Advanced JavaScript Interview Questions.  
   - **Day 84**: Spotify Clone Using HTML, CSS, and JavaScript.  
   - **JavaScript Completed Successfully.**  
-
+  ---
+  - *Node.js Development Initiated.*
   - **Day 85**: Backend, Node.js, & `npm`.  
   - **Day 86**: `CommonJS` vs `ECMAScript Modules`.  
   - **Day 87**: Working with Files: `fs` and `path` Modules in Node.js.  
   - **NodeJs Completed Successfully.**  
-
+  ---
+  - *Express.js Development Initiated.*
   - **Day 88**: Introduced to Express.js.  
   - **Day 89**: Learned about `Response`, `Request`, and `Routes` in Express.js.  
   - **Day 90**: Middleware in Express.js.  
@@ -128,24 +132,28 @@ Here's a quick look at my progress over time:
   - **Day 92**: `EJS` Template Engine in Express.  
   - **Day 93**: Exercise 15 Solution.  
   - **ExpressJs Completed Successfully.**  
-
+  ---
+  - *MongoDB Development Initiated.*
   - **Day 94**: Installing MongoDB & MongoDB Compass.  
   - **Day 95**: CRUD Operations in MongoDB.  
   - **Day 96**: Installing Mongoose & Using It With Express.  
   - **Day 97**: Exercise 16.  
   - **Day 99**: Exercise 16 Solution.  
   - **MongoDB Completed Successfully.**  
-
+  ---
+  - *Tailwind CSS Development Initiated.*
   - **Day 98**: Complete Tailwind CSS Tutorial.  
   - **Day 100**: Exercise 17.  
   - **Day 101**: Twitter UI Clone Using Tailwind CSS.  
   - **Day 102**: Exercise 17 Solution.  
   - **Tailwind CSS Completed Successfully.**  
-
+  ---
+  - *Hosting Initiated.*
   - **Day 103**: Introduction to web hosting.  
   - **Day 104**: How to host Node.js apps on Ubuntu.  
   - **Hosting Completed Successfully.**  
-
+  ---
+  - *React Development Initiated.*
   - **Day 105**: Introduction to React and Why We Use It.  
   - **Day 106**: Components, Props, and JSX in React.  
   - **Day 107**: Hooks and State in React.  
@@ -163,7 +171,8 @@ Here's a quick look at my progress over time:
   - **Day 119**: Handling Forms + Connecting React to `Express` Backend.
   - **Day 120**: The `Redux` Toolkit in React.
   - **React Completed Successfully.**
-
+  ---
+  - *Next.js Development Initiated.*
   - **Day 121**: Introduction to `Next.js` & File-Based Routing.
   - **Day 122**: Server `Components` in Next.js.
   - **Day 123**: `<Script>`, `<Link>`, and `<Image>` components in Next.js.
@@ -182,13 +191,57 @@ Here's a quick look at my progress over time:
   - **Day 136**: Let’s Build a `URL Shortener` in Next.js 15.
   - **Day 137**: Let’s Build a `Linktree Clone` in Next.js 15.
   - **Day 138**: Deploying Our Next.js App to `Vercel`.
+  - **Next.js Completed Successfully.**
+
+> ###   **MERN Stack completed successfully with MongoDB, Express, React, Node.js, and Next.js.**
+  ---
+
+### Project work
+
+- #### Project 1: `Twitter Clone` Using `Tailwind CSS`
+  - **Day 139**: Today, we created the left and right panels of the `Twitter` layout and added `icons` to the left sidebar.
+
+
+## Getting Started
+
+To explore the solutions, please follow these steps:
+
+1.  **Clone the repository** to your local machine using the following command:
+    ```bash
+    git clone [https://github.com/sahilzalte/365-DAYS-365-CODES.git](https://github.com/sahilzalte/365-DAYS-365-CODES.git)
+    ```
+
+---
+## Contact Information
+
+You are welcome to reach out via my professional contact form or connect with me on various social platforms.
+
+<div align="center">
+  <a href="https://contact-form-snowy-gamma.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Professional_Contact-0056B3?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=0056B3" alt="Contact Form"/>
+  </a>
+</div>
+
+---
+
+## Connect with Me
+
+<div align='center'>
+  <a href="https://twitter.com/sahilzalte07" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://sahils-omega.vercel.app/images/insta.jpg" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sahil-zalte-999b55304/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   
+  <a href="https://youtube.com/@sahil94-v9e?si=Mw-345tD-LNoIKWT" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
+  </a>
+</div>
 
-## 🔥 Getting Started
+---
 
-To explore the solutions, follow these steps:
-
-1. **Clone the repository** to your local machine:  
-   ```bash
-   git clone https://github.com/sahilzalte/365-DAYS-365-CODES.git
-   ```
+> **If you find the content valuable, please consider leaving a star on the GitHub repository.**
