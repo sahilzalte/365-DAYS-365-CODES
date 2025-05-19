@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `139/365`
+  - **Days Completed**: `140/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS` , `Next.js`.
   - **Current Focus**: `MERN Stack`
 
@@ -200,6 +200,8 @@ Here's a quick look at my progress over time:
 
 - #### Project 1: `Twitter Clone` Using `Tailwind CSS`
   - **Day 139**: Today, we created the left and right panels of the `Twitter` layout and added `icons` to the left sidebar.
+  - **Day 140**: Completed all components and finalized the project..
+
 
 
 ## Getting Started
