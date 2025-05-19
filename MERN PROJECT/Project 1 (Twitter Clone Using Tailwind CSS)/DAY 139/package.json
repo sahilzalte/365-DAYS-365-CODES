@@ -1,0 +1,20 @@
+{
+  "name": "project-1-(twitter-clone-using-tailwind-css)",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx @tailwindcss/cli -i ./css/input.css -o ./css/output.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.7"
+  },
+  "devDependencies": {
+    "tailwindcss": "^4.1.7"
+  }
+}
