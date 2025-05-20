@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `140/365`
+  - **Days Completed**: `141/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS` , `Next.js`.
   - **Current Focus**: `MERN Stack`
 
@@ -200,7 +200,12 @@ Here's a quick look at my progress over time:
 
 - #### Project 1: `Twitter Clone` Using `Tailwind CSS`
   - **Day 139**: Today, we created the left and right panels of the `Twitter` layout and added `icons` to the left sidebar.
-  - **Day 140**: Completed all components and finalized the project..
+  - **Day 140**: Completed all components and finalized the project.
+  - **Day 141**: Deployed the `Twitter Clone` on `Vercel`.  
+---
+
+- #### Project 2: `iTask` - `Todo App` Using `React` and `Tailwind CSS`
+  - **Day 141**: Today, we created a minimal Todo app with add, edit, delete, and complete features using React, Tailwind CSS, and localStorage  
 
 
 
@@ -210,8 +215,9 @@ To explore the solutions, please follow these steps:
 
 1.  **Clone the repository** to your local machine using the following command:
     ```bash
-    git clone [https://github.com/sahilzalte/365-DAYS-365-CODES.git](https://github.com/sahilzalte/365-DAYS-365-CODES.git)
+    git clone https://github.com/sahilzalte/365-DAYS-365-CODES.git
     ```
+
 
 ---
 ## Contact Information
