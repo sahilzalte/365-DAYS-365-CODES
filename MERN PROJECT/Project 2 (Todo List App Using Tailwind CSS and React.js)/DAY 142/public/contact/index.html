@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sahil Contact</title>
+    <link rel="stylesheet" href="WhoAreYou.css">
+    <link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css" />
+</head>
+
+<body>
+    <div class="background">
+        <div class="container">
+            <div class="screen">
+                <div class="screen-header">
+                    <div class="screen-header-left">
+                        <div class="screen-header-button close"></div>
+                        <div class="screen-header-button maximize"></div>
+                        <div class="screen-header-button minimize"></div>
+                    </div>
+                    <div class="screen-header-right">
+                        <div class="screen-header-ellipsis"></div>
+                        <div class="screen-header-ellipsis"></div>
+                        <div class="screen-header-ellipsis"></div>
+                    </div>
+                </div>
+                <div class="screen-body">
+                    <div class="screen-body-item left" data-aos="fade-right" data-aos-delay="500">
+                        <div class="app-title">
+                            <span>CONTACT</span>
+                            <span>US</span>
+                        </div>
+                        <div class="app-contact">CONTACT INFO : +91 89 56 90 14 53</div>
+                    </div>
+                    <div class="screen-body-item">
+                        <div class="app-form" data-aos="fade-left" data-aos-delay="500">
+                            <form id="contactForm">
+                                <div class="app-form-group">
+                                    <input id="name" class="app-form-control" placeholder="NAME" required>
+                                </div>
+                                <div class="app-form-group">
+                                    <input id="email" class="app-form-control" placeholder="EMAIL" required>
+                                </div>
+                                <div class="app-form-group">
+                                    <input id="contact" class="app-form-control" placeholder="CONTACT NO" required>
+                                </div>
+                                <div class="app-form-group message">
+                                    <input id="message" class="app-form-control" placeholder="MESSAGE" required>
+                                </div>
+                                <div class="app-form-group buttons">
+                                    <!-- <button type="button" class="app-form-button">CANCEL</button> -->
+                                    <button type="submit" class="app-form-button">SEND</button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="credits">
+                inspired by Sahil
+            </div>
+        </div>
+    </div>
+
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+        AOS.init(); // Initialize AOS for scroll animations
+
+        // Handle form submission
+        document.getElementById('contactForm').addEventListener('submit', function (e) {
+            e.preventDefault(); // Prevent default form submission
+
+            const name = encodeURIComponent(document.getElementById('name').value);
+            const email = encodeURIComponent(document.getElementById('email').value);
+            const message = encodeURIComponent(document.getElementById('message').value);
+
+            if (name && email && message) {
+                const whatsappMessage =
+                    `✨ *New FeedBack From Todo App* ✨%0A%0A` +
+                    `👤 *Name:* ${name}%0A` +
+                    `📧 *Email:* ${email}%0A` +
+                    `💬 *Message:* ${message}`;
+
+                // Open WhatsApp chat in a new tab with the pre-filled message
+                window.open(`https://wa.me/918956901453?text=${whatsappMessage}`, '_blank');
+            } else {
+                alert('⚠️ Please fill in all fields before sending your message! 🚀');
+            }
+
+        });
+    </script>
+</body>
+
+</html>
