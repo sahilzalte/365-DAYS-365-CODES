@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `141/365`
+  - **Days Completed**: `142/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS` , `Next.js`.
   - **Current Focus**: `MERN Stack`
 
@@ -201,12 +201,18 @@ Here's a quick look at my progress over time:
 - #### Project 1: `Twitter Clone` Using `Tailwind CSS`
   - **Day 139**: Today, we created the left and right panels of the `Twitter` layout and added `icons` to the left sidebar.
   - **Day 140**: Completed all components and finalized the project.
-  - **Day 141**: Deployed the `Twitter Clone` on `Vercel`.  
+  - **Day 141**: Deployed the `Twitter Clone` on `Vercel` 
+    - 🔗 **Live Demo**: [Visit Twitter Clone](https://twitter-clone-using-tailwind-css-4q9k.vercel.app/).  
 ---
 
 - #### Project 2: `iTask` - `Todo App` Using `React` and `Tailwind CSS`
-  - **Day 141**: Today, we created a minimal Todo app with add, edit, delete, and complete features using React, Tailwind CSS, and localStorage  
+  - **Day 141**: Today, we created a minimal Todo app with add, edit, delete, and complete features using React, Tailwind CSS, and localStorage.
+  - **Day 142**: Today, we completed all components and Deployed the `Todo App` on `Vercel` 
+    - 🔗 **Live Demo**: [Visit Todo App](https://todo-list-app-using-tailwind-css-and-react-js.vercel.app/).
+---
 
+- #### Project 3: `Password Manager` using `React`, `Tailwind CSS`, `MongoDB` & `Express.js`
+   - **Day 142**: Today, we created the Navbar.jsx and Manager.jsx UI with basic functionalities like add, delete, save to localStorage, and styled input fields using React and Tailwind CSS.
 
 
 ## Getting Started
