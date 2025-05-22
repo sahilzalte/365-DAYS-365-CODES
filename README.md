@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `142/365`
+  - **Days Completed**: `143/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS` , `Next.js`.
   - **Current Focus**: `MERN Stack`
 
@@ -213,7 +213,8 @@ Here's a quick look at my progress over time:
 
 - #### Project 3: `Password Manager` using `React`, `Tailwind CSS`, `MongoDB` & `Express.js`
    - **Day 142**: Today, we created the Navbar.jsx and Manager.jsx UI with basic functionalities like add, delete, save to localStorage, and styled input fields using React and Tailwind CSS.
-
+   - **Day 143**: Completed and deployed the responsive Password Manager on Vercel with local & MongoDB versions. Added footer, icons (copy, hide, delete, add, save).
+     - 🔗 **Live Demo**: [Visit Password Manager](https://mern-password-manager.vercel.app/).
 
 ## Getting Started
 
