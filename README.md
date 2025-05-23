@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `143/365`
+  - **Days Completed**: `144/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS` , `Next.js`.
   - **Current Focus**: `MERN Stack`
 
@@ -183,7 +183,7 @@ Here's a quick look at my progress over time:
   - **Day 128**: `Dynamic Routes` in Next.js.
   - **Day 129**: `Layouts` in Next.js.
   - **Day 130**: `Password Manager` using `React.js`, `Tailwind CSS`, `Express.js`, and `MongoDB`.
-  - **Day 131**: `GetMeAChai` – Patreon Clone in Next.js.
+  - **Day 131**: `Get Me A Chai` – Patreon Clone in Next.js.
   - **Day 132**: Understanding `next/navigation` module in Next.js.
   - **Day 133**: `SSR, SSG, ISR` in Next.js.
   - **Day 134**: `Environment Variables` in Next.js.
@@ -215,6 +215,10 @@ Here's a quick look at my progress over time:
    - **Day 142**: Today, we created the Navbar.jsx and Manager.jsx UI with basic functionalities like add, delete, save to localStorage, and styled input fields using React and Tailwind CSS.
    - **Day 143**: Completed and deployed the responsive Password Manager on Vercel with local & MongoDB versions. Added footer, icons (copy, hide, delete, add, save).
      - 🔗 **Live Demo**: [Visit Password Manager](https://mern-password-manager.vercel.app/).
+---
+
+- #### Project 4: `Get Me A Chai` – Patreon Clone using `Next.js`, `Tailwind CSS`, `MongoDB` & `Razorpay`
+   - **Day 144**: Created the Login page and Main page UI. Arranged icons properly, implemented basic logic to add GitHub account integration to the app.
 
 ## Getting Started
 
