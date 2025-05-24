@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `144/365`
+  - **Days Completed**: `145/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS` , `Next.js`.
   - **Current Focus**: `MERN Stack`
 
@@ -218,7 +218,8 @@ Here's a quick look at my progress over time:
 ---
 
 - #### Project 4: `Get Me A Chai` – Patreon Clone using `Next.js`, `Tailwind CSS`, `MongoDB` & `Razorpay`
-   - **Day 144**: Created the Login page and Main page UI. Arranged icons properly, implemented basic logic to add GitHub account integration to the app.
+   - **Day 144**: Today, we created the Login page and Main page UI. Arranged icons properly, implemented basic logic to add GitHub account integration to the app.
+   - **Day 145**: Today, we implemented authentication, created the dashboard, added dynamic routes, integrated the Razorpay payment gateway, and set up the user profile.
 
 ## Getting Started
 
