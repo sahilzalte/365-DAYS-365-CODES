@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `146 /365`
+  - **Days Completed**: `147/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS` , `Next.js`.
   - **Current Focus**: `MERN Stack`
 
@@ -221,7 +221,7 @@ Here's a quick look at my progress over time:
    - **Day 144**: Today, we created the Login page and Main page UI. Arranged icons properly, implemented basic logic to add GitHub account integration to the app.
    - **Day 145**: Today, we implemented authentication, created the dashboard, added dynamic routes, integrated the Razorpay payment gateway, and set up the user profile.
    - **Day 146**: Added the `.env` file and Razorpay keys, and created a new database named `chai`.
-
+   - **Day 147**: Integrated `razorpay` with `MongoDB` and fetched data using a callback. Also, improved `userInteraction.js` for better structure and functionality.
 ## Getting Started
 
 To explore the solutions, please follow these steps:
