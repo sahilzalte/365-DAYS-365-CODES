@@ -1,0 +1,4 @@
+@import "tailwindcss";
+.inverImg{
+    filter: invert(0.23);
+}
