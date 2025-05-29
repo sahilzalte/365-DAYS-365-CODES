@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `149/365`
+  - **Days Completed**: `150/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS` , `Next.js`.
   - **Current Focus**: `MERN Stack`
 
@@ -225,8 +225,10 @@ Here's a quick look at my progress over time:
    - **Day 148**: Made the site fully `responsive` for mobile devices and integrated `dynamic payment methods`. Users can now securely access their `Razorpay ID`. Finalized all features and completed the project successfully. 
 ---
 
-- #### Project 4: URL Shortener using next.js ,tailwind css and mongodb
-   - **Day 149**: Today, we created the Login page and Main page UI. Arranged icons properly, implemented basic logic to add GitHub account integration to the app.
+- #### Project 5: `URL Shortener` using `Next.js`, `Tailwind CSS`, `MongoDB`, and `Postman`
+   - **Day 149**: Today, we created the basic UI design for all pages, added dynamic routes, and configured environment variables.
+   - **Day 150**: Built UI, added dynamic routes, set up env variables, completed backend, tested with Postman & local MongoDB, and finalized the project locally.
+---
 
 ## Getting Started
 
