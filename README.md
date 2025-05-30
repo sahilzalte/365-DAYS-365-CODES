@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `150/365`
+  - **Days Completed**: `151/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS` , `Next.js`.
   - **Current Focus**: `MERN Stack`
 
@@ -230,6 +230,10 @@ Here's a quick look at my progress over time:
    - **Day 150**: Built UI, added dynamic routes, set up env variables, completed backend, tested with Postman & local MongoDB, and finalized the project locally.
 ---
 
+- #### Project 6: `Linktree Clone` using `Next.js`, `Tailwind CSS`, `MongoDB`
+  - **Day 151**: Today we created all pages, added images and buttons, and built a well-structured UI with only the Navbar generated. MongoDB added, environment variable added.
+
+  
 ## Getting Started
 
 To explore the solutions, please follow these steps:
