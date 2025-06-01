@@ -6,9 +6,10 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `152/365`
-  - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS` , `Next.js`.
-  - **Current Focus**: `MERN Stack`
+  - **Days Completed**: `153/365`
+  - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS`, `Next.js` || `PHP`.
+  - **Current Completed**: `MERN Stack`.
+  - **Current Focus**: `PHP`.
 
   Welcome to my **365 Days 365 Codes** project! 🚀 This repository is a collection of **daily coding challenges** and solutions that I have worked on over the span of **365 days**. The goal of this project is to improve my problem-solving skills, learn new algorithms, and enhance my coding proficiency.
 
@@ -196,7 +197,7 @@ Here's a quick look at my progress over time:
 > ###   **MERN Stack completed successfully with MongoDB, Express, React, Node.js, and Next.js.**
   ---
 
-### Project work
+### Project Work
 
 - #### Project 1: `Twitter Clone` Using `Tailwind CSS`
   - **Day 139**: Today, we created the left and right panels of the `Twitter` layout and added `icons` to the left sidebar.
@@ -234,7 +235,20 @@ Here's a quick look at my progress over time:
   - **Day 151**: Today we created all pages, added images and buttons, and built a well-structured UI with only the Navbar generated. MongoDB added, environment variable added.
   - **Day 152**: Today completed project, added all backend functionality and dynamic routes in Next.js, integrated MongoDB, and tested using Postman.
 ---
-  
+### Project Work Completed
+
+#### Finalized Projects  
+All projects have been successfully completed and uploaded to their respective repositories.
+
+- React + Tailwind CSS projects are fully hosted and live.  
+- Next.js projects are configured for local development and testing, with Postman for API testing and MongoDB for database management.
+---
+
+  - *PHP Development Initiated.*
+  - **Day 153**: Installed `XAMPP`, set up VS Code, configured the environment, and created a "Hello World" application.
+
+
+
 ## Getting Started
 
 To explore the solutions, please follow these steps:
@@ -278,4 +292,4 @@ You are welcome to reach out via my professional contact form or connect with me
 
 ---
 
-> **If you find the content valuable, please consider leaving a star on the GitHub repository.**
+>  **If you find this content helpful, please consider giving a star to the GitHub repository.**
