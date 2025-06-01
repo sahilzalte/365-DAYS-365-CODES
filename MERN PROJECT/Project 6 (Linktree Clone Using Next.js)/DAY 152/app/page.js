@@ -31,8 +31,15 @@ export default function Home() {
 
         </div>
       </section>
-      <section className="bg-red-700 min-h-[100vh]">
-
+      <section className="relative bg-red-d700 min-h-[100vh] overflow-hidden">
+        <img
+          src="/image.png" // replace with your image path
+          alt="Full Screen Background"
+          className="absolute inset-0 w-full h-full object-cover z-0"
+        />
+        <div className="relative z-10">
+          {/* Add your content here */}
+        </div>
       </section>
     </main>
   );

@@ -34,7 +34,7 @@ const Dashboard = () => {
     const handleSubmit = async (e) => {
         let a = await updateProfile(e, session.user.name)
         toast.success('Profile Updated', {
-            position: "top-right",
+            position: "top-left",
             autoClose: 5000,
             hideProgressBar: false,
             closeOnClick: false,
