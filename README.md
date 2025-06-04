@@ -7,9 +7,9 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 Here's a quick look at my progress over time:
 
   - **Days Completed**: `155/365`
-  - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS`, `Next.js` || `PHP`.
-  - **Current Completed**: `MERN Stack`.
-  - **Current Focus**: `PHP`.
+  - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS`, `Next.js`
+  - **Current Completed**: `MERN Stack`
+  - **Current Focus**: `Revision of MERN Stack + Full-Stack Concepts` 
 
   Welcome to my **365 Days 365 Codes** project! 🚀 This repository is a collection of **daily coding challenges** and solutions that I have worked on over the span of **365 days**. The goal of this project is to improve my problem-solving skills, learn new algorithms, and enhance my coding proficiency.
 
@@ -244,11 +244,14 @@ All projects have been successfully completed and uploaded to their respective r
 - Next.js projects are configured for local development and testing, with Postman for API testing and MongoDB for database management.
 ---
 
-  - *PHP Development Initiated.*
-  - **Day 153**: Just started learning PHP and wrote the Hello World program in PHP, guided by ChatGPT.
-  - **Day 154**: Installed `XAMPP`, set up VS Code, configured the environment, and created a "Hello World" application.
-  - **Day 155**: Creating Our First `PHP` Website.
+###  Revision Phase Begins
 
+#### 🔁 Recent Topics
+
+- **Day 153**: Learn Fetch API — making network requests, handling responses, and promises.
+- **Day 154**: Recursion — understanding recursive functions and their use cases.
+- **Day 155**: Error Handling in JavaScript — try-catch blocks, throwing errors, and debugging.-
+- **Day 156**: Explored `npm`, learned about `package.json` & `package-lock.json`, understood dependencies management, versioning, and how `Node.js` handles module installation 
 
 
 ## Getting Started
