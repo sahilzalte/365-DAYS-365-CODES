@@ -299,4 +299,8 @@ You are welcome to reach out via my professional contact form or connect with me
 
 ---
 
+## 📊 GitHub Activity Analytics
+![Alt](https://repobeats.axiom.co/api/embed/2bf95b7cab8ee3252419fd4c15ecd32b3898080b.svg "Repobeats analytics image")
+---
+
 >  **If you find this content helpful, please consider giving a star to the GitHub repository.**
