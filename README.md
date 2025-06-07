@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `158/365`
+  - **Days Completed**: `159/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS`, `Next.js`
   - **Current Completed**: `MERN Stack`
   - **Current Focus**: `Revision of MERN Stack + Full-Stack Concepts` 
@@ -250,10 +250,11 @@ All projects have been successfully completed and uploaded to their respective r
 
 - **Day 153**: Learn Fetch API — making network requests, handling responses, and promises.
 - **Day 154**: Recursion — understanding recursive functions and their use cases.
-- **Day 155**: Error Handling in JavaScript — try-catch blocks, throwing errors, and debugging.-
-- **Day 156**: Explored `npm`, learned about `package.json` & `package-lock.json`, understood dependencies management, versioning, and how `Node.js` handles module installation 
-- **Day 157**: Learn `CommonJS` and `ECMAScript (ES)` Modules in Node.js
-- **Day 158**: Learn `fs` and `path` modules in Node.js
+- **Day 155**: Error Handling in JavaScript — try-catch blocks, throwing errors, and debugging.
+- **Day 156**: Explored `npm`, learned about `package.json` & `package-lock.json`, understood dependencies management, versioning, and how `Node.js` handles module installation.
+- **Day 157**: Learn `CommonJS` and `ECMAScript (ES)` Modules in Node.js.
+- **Day 158**: Learn `fs` and `path` modules in Node.js.
+- **Day 158**: Learn GET requests, slugs, public folder, and Nodemon in Express.js.
 
 
 ## Getting Started
