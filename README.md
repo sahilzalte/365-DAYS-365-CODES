@@ -292,7 +292,7 @@ You are welcome to reach out via my professional contact form or connect with me
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
-  <a href="https://youtube.com/@sahil94-v9e?si=Mw-345tD-LNoIKWT" target="_blank">
+  <a href="https://www.youtube.com/@codewithsahil-07" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
   </a>
 </div>
