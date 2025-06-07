@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Dummy Data Display</title>
+</head>
+<body>
+  <h1>User List</h1>
+  <table border="1" id="userTable">
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Email</th>
+        <th>City</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- Data will be injected here -->
+    </tbody>
+  </table>
+
+  <script>
+    fetch("/api/users")
+      .then((res) => res.json())
+      .then((data) => {
+        const tbody = document.querySelector("#userTable tbody");
+        data.forEach((user) => {
+          const row = document.createElement("tr");
+          row.innerHTML = `
+            <td>${user.id}</td>
+            <td>${user.name}</td>
+            <td>${user.email}</td>
+            <td>${user.city}</td>
+          `;
+          tbody.appendChild(row);
+        });
+      })
+      .catch((err) => {
+        console.error("Failed to fetch users:", err);
+      });
+  </script>
+</body>
+</html>
