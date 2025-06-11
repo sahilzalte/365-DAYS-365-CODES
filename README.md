@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `162/365`
+  - **Days Completed**: `163/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS`, `Next.js`
   - **Current Completed**: `MERN Stack`
   - **Current Focus**: `Revision of MERN Stack + Full-Stack Concepts` 
@@ -258,6 +258,7 @@ All projects have been successfully completed and uploaded to their respective r
 - **Day 160**: Learn `Object-fit` and `Position` in CSS.
 - **Day 161**: Learn `Response`, `Request`, and `Routes` in Express.js.
 - **Day 162**: Learn `Middleware` networking in Express.js.
+- **Day 163**: Learn `EJS` template engine in Express.js.
 
 
 ## Getting Started
