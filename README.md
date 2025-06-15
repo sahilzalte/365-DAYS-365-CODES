@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `166/365`
+  - **Days Completed**: `167/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS`, `Next.js`
   - **Current Completed**: `MERN Stack`
   - **Current Focus**: `Revision of MERN Stack + Full-Stack Concepts` 
@@ -262,6 +262,8 @@ All projects have been successfully completed and uploaded to their respective r
 - **Day 164**: Learn  `CallBack` and `Promises` in JavaScript.
 - **Day 165**: Learn  `async` and `await` in JavaScript.
 - **Day 166**: Learn  `Hooks` and `States` in React.
+- **Day 167**: Learn `props` syntax in `JSX` in React.
+
 
 
 ## Getting Started
