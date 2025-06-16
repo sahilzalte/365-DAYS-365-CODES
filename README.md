@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `167/365`
+  - **Days Completed**: `168/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS`, `Next.js`
   - **Current Completed**: `MERN Stack`
   - **Current Focus**: `Revision of MERN Stack + Full-Stack Concepts` 
@@ -263,6 +263,7 @@ All projects have been successfully completed and uploaded to their respective r
 - **Day 165**: Learn  `async` and `await` in JavaScript.
 - **Day 166**: Learn  `Hooks` and `States` in React.
 - **Day 167**: Learn `props` syntax in `JSX` in React.
+- **Day 168**: Learn `useRef` in React.
 
 
 
@@ -295,7 +296,7 @@ You are welcome to reach out via my professional contact form or connect with me
   <a href="https://twitter.com/sahilzalte07" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://sahils-omega.vercel.app/images/insta.jpg" target="_blank">
+  <a href="https://shorturl.at/NcS7f" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.linkedin.com/in/sahil-zalte-999b55304/" target="_blank">
