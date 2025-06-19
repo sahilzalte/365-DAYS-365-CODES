@@ -266,10 +266,9 @@ All projects have been successfully completed and uploaded to their respective r
 - **Day 168**: Learn `useRef` in React.
 - **Day 169**: Learn `Event` Handling in React.
 - **Day 170**: Learn `Variables` in CSS.
+- **Day 171**: Learn the basics of `Figma` — just enough to understand it for learning and project purposes.
 
-
-
-## Getting Started
+## Getting Started.
 
 To explore the solutions, please follow these steps:
 
