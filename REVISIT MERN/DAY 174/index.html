@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Tailwind Animation Demo</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* Custom animation using @layer */
+        @layer utilities {
+            .animate-wiggle {
+                animation: wiggle 1s ease-in-out infinite;
+            }
+
+            @keyframes wiggle {
+
+                0%,
+                100% {
+                    transform: rotate(-3deg);
+                }
+
+                50% {
+                    transform: rotate(3deg);
+                }
+            }
+        }
+    </style>
+</head>
+
+<body class="min-h-screen flex flex-col items-center justify-center gap-10 bg-gray-100 text-center p-10">
+
+    <h1 class="text-4xl font-bold text-indigo-600">Tailwind Animations</h1>
+
+    <div class="flex flex-wrap gap-6 justify-center">
+        <div class="p-4 bg-white rounded shadow animate-bounce">Bounce</div>
+        <div class="p-4 bg-white rounded shadow animate-spin">Spin</div>
+        <div class="p-4 bg-white rounded shadow animate-ping">Ping</div>
+        <div class="p-4 bg-white rounded shadow animate-pulse">Pulse</div>
+        <div class="p-4 bg-white rounded shadow animate-wiggle">Custom Wiggle</div>
+    </div>
+
+
+    <div class="mt-10">
+        <p class="text-lg mb-2">Slow Pulse with Delay</p>
+        <div class="p-4 bg-blue-200 rounded-full animate-pulse duration-2000 delay-500">
+            👋 I'm slow and delayed
+        </div>
+    </div>
+
+</body>
+
+</html>
