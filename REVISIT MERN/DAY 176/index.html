@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vue 3 Professional Demo</title>
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <style>
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: #f9f9f9;
+            padding: 40px;
+            display: flex;
+            justify-content: center;
+        }
+
+        #app {
+            background: #fff;
+            border-radius: 12px;
+            padding: 30px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+            width: 100%;
+            max-width: 500px;
+        }
+
+        h1 {
+            color: #2c3e50;
+            font-size: 28px;
+            margin-bottom: 20px;
+        }
+
+        input {
+            width: 100%;
+            padding: 10px 15px;
+            font-size: 16px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+
+        button {
+            background: #42b983;
+            color: white;
+            border: none;
+            padding: 12px 20px;
+            font-size: 16px;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: background 0.3s ease;
+        }
+
+        button:hover {
+            background: #369a75;
+        }
+
+        .output {
+            font-size: 18px;
+            margin-top: 20px;
+            color: #34495e;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="app">
+        <h1>{{ title }}</h1>
+
+        <input v-model="userInput" placeholder="Type something..." />
+        <button @click="reverseText">Reverse Text</button>
+
+        <div class="output">
+            <p><strong>Original:</strong> {{ userInput }}</p>
+            <p><strong>Reversed:</strong> {{ reversed }}</p>
+        </div>
+    </div>
+
+    <script>
+        const { createApp, computed } = Vue;
+
+        createApp({
+            data() {
+                return {
+                    title: 'Vue 3 Professional Example',
+                    userInput: ''
+                };
+            },
+            computed: {
+                reversed() {
+                    return this.userInput.split('').reverse().join('');
+                }
+            },
+            methods: {
+                reverseText() {
+                    // This method is just for button interaction, not required for computed logic
+                    alert("Text reversed (check below).");
+                }
+            }
+        }).mount('#app');
+    </script>
+</body>
+
+</html>
