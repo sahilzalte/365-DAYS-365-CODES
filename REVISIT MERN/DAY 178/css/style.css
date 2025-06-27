@@ -1,0 +1,278 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;600;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+body {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 30px 0;
+}
+
+.back-vid {
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: -1;
+}
+
+.main-section {
+  width: 90%;
+  height: 90%;
+  background-color: #4ad0ee1b;
+  backdrop-filter: blur(10px);
+  border-radius: 50px;
+  box-shadow: 5px 5px 20px 1px #4acfee;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 40px;
+  backdrop-filter: blur(18px);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+nav h1 {
+  color: white;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+nav ul li {
+  position: relative;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: 600;
+  padding: 5px 15px;
+  transition: color 0.3s ease;
+}
+
+nav a::after {
+  content: '';
+  position: absolute;
+  width: 0;
+  height: 2px;
+  bottom: 0;
+  left: 50%;
+  background: currentColor;
+  transition: width 0.3s ease, left 0.3s ease;
+}
+
+nav a:hover::after,
+.active::after {
+  width: 50%;
+  left: 25%;
+}
+
+nav a:hover,
+.active {
+  color: #4acfee;
+}
+
+.hero {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 70%;
+  padding: 20% 10%;
+  color: white;
+}
+
+.hero h1 {
+  font-size: 60px;
+}
+
+.hero h2 {
+  margin-top: 20px;
+  font-size: 30px;
+  text-transform: uppercase;
+  background: linear-gradient(to right, #4acfee, #53f8c9, #6070fd, #5bbdff, #4acfee);
+  background-size: 200%;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: animate-gradient 2.5s linear infinite;
+}
+
+
+.hero p {
+  max-width: 450px;
+  margin-top: 7px;
+  margin-bottom: 20px;
+}
+
+.ul-icons {
+  display: flex;
+  align-items: center;
+}
+
+.ul-icons li {
+  list-style: none;
+  margin-left: 10px;
+}
+
+.ul-icons a {
+  display: inline-flex;
+  padding: 8px;
+  border: 2px solid #4acfee;
+  border-radius: 50%;
+  font-size: 20px;
+  color: #4acfee;
+  text-decoration: none;
+  margin: 0 7px;
+  transition: 0.3s;
+}
+
+.ul-icons a:hover {
+  background: #4acfee;
+  box-shadow: 0 0 10px #4acfee;
+}
+
+.hero-img {
+  width: 400px;
+  height: 400px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  overflow: hidden;
+  box-shadow: 0 0 10px #4eddfd;
+  transition: 0.5s;
+}
+
+.hero-img:hover {
+  box-shadow: 0 0 25px #4acfee;
+}
+
+.hero-img img {
+  height: 120%;
+  width: 100%;
+  mix-blend-mode: lighten;
+}
+
+.resume-card {
+  background: rgba(255, 255, 255, 0.1);
+  padding: 25px;
+  border-radius: 15px;
+  margin-top: 30px;
+  max-width: 400px;
+  border: 1px solid #4acfee;
+  backdrop-filter: blur(5px);
+  text-align: left;
+}
+
+.resume-card h3 {
+  color: #ffffff;
+  font-size: 22px;
+  margin-bottom: 10px;
+}
+
+.resume-card p {
+  color: #dddddd;
+  margin-bottom: 20px;
+  font-size: 15px;
+}
+
+.resume-buttons {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.btn-resume,
+.btn-resume-outline {
+  text-decoration: none;
+  padding: 10px 20px;
+  font-weight: 600;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+}
+
+.btn-resume {
+  background-color: #4acfee;
+  color: #000;
+}
+
+.btn-resume:hover {
+  background-color: #35b6dd;
+}
+
+.btn-resume-outline {
+  border: 2px solid #4acfee;
+  color: #4acfee;
+  background-color: transparent;
+}
+
+.btn-resume-outline:hover {
+  background-color: #4acfee;
+  color: #000;
+}
+
+.ul-icon {
+  display: flex;
+  align-items: center;
+}
+
+.ul-icon li {
+  list-style: none;
+  margin-left: 10px;
+}
+
+.ul-icon a {
+  display: inline-flex;
+  padding: 8px;
+  border: 2px solid #4acfee;
+  border-radius: 50%;
+  font-size: 20px;
+  color: #4acfee;
+  text-decoration: none;
+  margin: 0 7px;
+  transition: 0.3s;
+}
+
+.ul-icon a:hover {
+  background: #4acfee;
+  color: #0e1217;
+  box-shadow: 0 0 10px #4acfee;
+}
+
+.footer-with-carousel {
+  min-height: 80px;
+  padding: 20% 10%;
+  width: 50%;
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  margin: 40px;
+  position: relative;
+  z-index: 1;
+}
+
+.footer-with-carousel .carousel-item img {
+  object-fit: cover;
+  filter: brightness(0.3);
+}
+
+.footer-with-carousel .footer-content {
+  z-index: 2;
+  position: relative;
+}

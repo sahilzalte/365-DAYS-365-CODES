@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact Me</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/contact.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+  <link rel="stylesheet" href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" />
+  <style>
+    html,
+    body {
+      height: 100%;
+      margin: 0;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .main-section {
+      flex: 1;
+    }
+  </style>
+</head>
+
+<body>
+
+  <video autoplay loop muted class="back-vid">
+    <source src="images/galaxy.mp4" type="video/mp4">
+  </video>
+
+
+  <section class="main-section">
+
+    <nav>
+
+      <h1><span style="color: #4acfee;">Sah</span>il
+        <span style="color: #f06529; font-family: monospace;">&lt;/&gt;</span>
+      </h1>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="projects.html">Projects</a></li>
+        <li><a href="skills.html">Skills</a></li>
+        <li><a class="active" href="#">Contact</a></li>
+      </ul>
+    </nav>
+
+    <div class="contact-container">
+
+      <div class="contact-form">
+        <form id="contactForm">
+          <div class="form-group">
+            <input type="text" id="name" placeholder="Name" required>
+          </div>
+          <div class="form-group">
+            <input type="email" id="email" placeholder="Email" required>
+          </div>
+          <div class="form-group">
+            <textarea id="message" rows="5" placeholder="Message" required></textarea>
+          </div>
+          <button type="submit" class="btn btn-success">Send</button>
+        </form>
+      </div>
+
+
+      <div class="contact-info">
+        <div class="info-item">
+          <i class='bx bx-envelope'></i>
+          <span>
+            <a href="mailto:contactcodebysahil@gmail.com" class="email-link">
+              contactcodebysahil@gmail.com
+            </a>
+          </span>
+        </div>
+
+        <div class="info-item">
+          <i class='bx bx-phone'></i>
+          <span>
+            <a href="tel:+918956901453" class="phone-link">
+              +91 895690 1453
+            </a>
+          </span>
+        </div>
+
+        <div class="social-links">
+          <p style="margin-bottom: 15px; color: #4acfee; font-size: 1.2em;">Let's Connect 🌟</p>
+          <ul class="ul-icons">
+            <li><a href="https://github.com/sahilzalte" target="_blank" title="github"><i class='bx bxl-github'></i></a></li>
+            <li><a href="https://www.linkedin.com/in/sahil-zalte-999b55304/" target="_blank" title="linkedin"><i
+                  class='bx bxl-linkedin'></i></a></li>
+            <li><a href="https://twitter.com/Sahilzalte07" target="_blank" title="twitter"><i class='bx bxl-twitter'></i></a></li>
+            <li>
+              <a href="https://www.youtube.com/@codewithsahil-07" target="_blank" title="YouTube">
+                <i class='bx bxl-youtube'></i>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+
+  </section>
+
+
+  <footer class="text-white text-center py-4" style="border: 1px solid #ccc;border-radius: 20px;margin: 10px;">
+    <div class="container">
+      <p class="mb-1">&copy; 2025 Sahil Zalte. All rights reserved.</p>
+      <small>Made with ❤️ for learning and growth.</small>
+    </div>
+    <div class="d-flex justify-content-center gap-3">
+      <a href="https://github.com/sahilzalte" target="_blank" class="text-white text-decoration-none">
+        <i class='bx bxl-github'></i>
+      </a>
+      <a href="https://linkedin.com/in/sahil-zalte-999b55304/" target="_blank" class="text-white text-decoration-none">
+        <i class='bx bxl-linkedin-square'></i>
+      </a>
+      <a href="https://twitter.com/Sahilzalte07" target="_blank" class="text-white text-decoration-none">
+        <i class='bx bxl-twitter'></i>
+      </a>
+      <a href="https://leetcode.com/u/sahilzalte/" target="_blank" class="text-white text-decoration-none">
+        <i class='bx bx-code-block'></i>
+      </a>
+    </div>
+    </div>
+  </footer>
+</body>
+
+</html>

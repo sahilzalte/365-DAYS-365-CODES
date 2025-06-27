@@ -1,0 +1,121 @@
+/* Contact Container */
+.contact-container {
+  padding: 2rem 10%;
+  display: flex;
+  justify-content: space-between;
+  gap: 4rem;
+  color: white;
+  flex-wrap: wrap;
+}
+
+/* Contact Form */
+.contact-form {
+  flex: 1;
+  max-width: 600px;
+}
+
+.contact-info {
+  flex: 1;
+  max-width: 400px;
+}
+
+/* Form Fields */
+.form-group {
+  margin-bottom: 25px;
+}
+
+input,
+textarea {
+  width: 100%;
+  padding: 12px 20px;
+  background: rgba(255, 255, 255, 0.1);
+  border: 2px solid #4acfee33;
+  border-radius: 8px;
+  color: white;
+  font-size: 16px;
+  transition: all 0.3s ease;
+}
+
+/* Smooth Hover Effect */
+input:hover,
+textarea:hover {
+  border-color: #4acfee;
+  box-shadow: 0 0 10px rgba(74, 207, 238, 0.5);
+}
+
+/* Textarea */
+textarea {
+  height: 150px;
+  resize: vertical;
+}
+
+/* Contact Info Items */
+.info-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 30px;
+  font-size: 18px;
+}
+
+/* Icons */
+.info-item i {
+  font-size: 24px;
+  margin-right: 15px;
+  color: #4acfee;
+  transition: transform 0.3s ease-in-out;
+}
+
+/* Icon Hover Animation */
+.info-item:hover i {
+  transform: rotate(15deg) scale(1.2);
+}
+
+/* Email & Phone Links */
+.contact-info a {
+  color: #4acfee;
+  text-decoration: none;
+  font-weight: 600;
+  position: relative;
+  padding: 8px 15px;
+  border-radius: 8px;
+  transition: all 0.4s ease;
+  border: 2px solid transparent;
+}
+
+/* Hover Effects */
+.contact-info a:hover {
+  border-color: #4ad0ee57;
+  background: rgba(74, 207, 238, 0.1);
+  box-shadow: 0 0 15px rgba(74, 207, 238, 0.2);
+  transform: translateY(-2px);
+}
+
+/* Underline Hover Effect */
+.contact-info a::after {
+  content: '';
+  position: absolute;
+  width: 0;
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background: #53f8c97a;
+  transition: width 0.3s ease;
+}
+
+.contact-info a:hover::after {
+  width: 100%;
+}
+
+
+/* Phone Number Section */
+.phone-number {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+.phone-number i {
+  color: #4acfee;
+  font-size: 24px;
+}
