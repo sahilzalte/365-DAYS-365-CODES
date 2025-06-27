@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `177/365`
+  - **Days Completed**: `178/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS`, `Next.js`
   - **Current Completed**: `MERN Stack`
   - **Current Focus**: `Revision of MERN Stack + Full-Stack Concepts` 
@@ -273,6 +273,7 @@ All projects have been successfully completed and uploaded to their respective r
 - **Day 175**: Learn Simple `Vue 3` Example From ChatGpt.
 - **Day 176**: Simple Example of Reversing a Text in `Vuejs` From ChatGpt.
 - **Day 177**: Learn a Simple `Hooks` of React.
+- **Day 178**: Create a Simple `Portfolio` using `html,CSS` only.
 
 ## Getting Started.
 
