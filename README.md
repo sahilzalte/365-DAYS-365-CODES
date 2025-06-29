@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `180/365`
+  - **Days Completed**: `181/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS`, `Next.js`
   - **Current Completed**: `MERN Stack`
   - **Current Focus**: `Revision of MERN Stack + Full-Stack Concepts` 
@@ -276,6 +276,7 @@ All projects have been successfully completed and uploaded to their respective r
 - **Day 178**: Create a Simple `Portfolio` using `html,CSS` only.
 - **Day 179**: Learn `JWT Authentication` with Role-Based Access
 - **Day 180**: Learn `User Authentication with JWT`.
+- **Day 181**: Learn `CRUD Operations` on Products.
 
 ## Getting Started.
 
