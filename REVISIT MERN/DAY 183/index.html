@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Todo List (Fetch API)</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      background: #f9f9f9;
+      padding: 20px;
+    }
+
+    h1 {
+      color: #222;
+    }
+
+    .todo {
+      background: #fff;
+      padding: 10px 15px;
+      margin-bottom: 10px;
+      border-left: 5px solid #007bff;
+      border-radius: 5px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    }
+
+    .completed {
+      border-left-color: green;
+      text-decoration: line-through;
+      color: gray;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Todo List</h1>
+  <div id="todoList">Loading todos...</div>
+
+  <script>
+    fetch('https://jsonplaceholder.typicode.com/todos?_limit=10')
+      .then(res => res.json())
+      .then(todos => {
+        const todoList = document.getElementById('todoList');
+        todoList.innerHTML = ''; // clear loading message
+
+        todos.forEach(todo => {
+          const div = document.createElement('div');
+          div.className = 'todo' + (todo.completed ? ' completed' : '');
+          div.textContent = todo.title;
+          todoList.appendChild(div);
+        });
+      })
+      .catch(err => {
+        document.getElementById('todoList').innerText = 'Error loading todos.';
+        console.error(err);
+      });
+  </script>
+
+</body>
+</html>
