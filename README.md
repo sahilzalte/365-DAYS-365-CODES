@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `194/365`
+  - **Days Completed**: `195/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS`, `Next.js`
   - **Current Completed**: `MERN Stack`
   - **Current Focus**: `Revision of MERN Stack + Full-Stack Concepts` 
@@ -290,6 +290,7 @@ All projects have been successfully completed and uploaded to their respective r
 - **Day 192**: `Dynamic Routing` in `Next.js`.
 - **Day 193**: `Middleware` Concept in `Next.js`.
 - **Day 194**: `Link` , `Script` ,`Image` Components in `Next.js`.
+- **Day 195**: `auth.js` - Authentication in `Next.js`.
 
 
 ## Getting Started.
