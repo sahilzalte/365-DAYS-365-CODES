@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `198/365`
+  - **Days Completed**: `199/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS`, `Next.js`
   - **Current Completed**: `MERN Stack`
   - **Current Focus**: `Revision of MERN Stack + Full-Stack Concepts` 
@@ -294,6 +294,8 @@ All projects have been successfully completed and uploaded to their respective r
 - **Day 196**: `404 Page` And `Dynamic Routes` in `Next.js`.
 - **Day 197**: `Layouts` in `Next.js`.
 - **Day 198**: `next/navigation , next/useRouter` in `Next.js`.
+- **Day 199**: `SSR - SSG - ISR` in Next.js.
+
 
 ## Getting Started.
 
