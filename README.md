@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `204/365`
+  - **Days Completed**: `205/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS`, `Next.js`
   - **Current Completed**: `MERN Stack`
   - **Current Focus**: `Revision of MERN Stack + Full-Stack Concepts` 
@@ -300,6 +300,7 @@ All projects have been successfully completed and uploaded to their respective r
 - **Day 202**: `useMemo` Hook and Expensive Computation in React.js.
 - **Day 203**: `Conditional Rendering` in React.js.
 - **Day 204**: `useCallback` Hook in React.js.
+- **Day 205**: `useContext` Hook in React.js.
 
 ## Getting Started.
 
