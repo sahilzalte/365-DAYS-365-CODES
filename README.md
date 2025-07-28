@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `210/365`
+  - **Days Completed**: `211/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS`, `Next.js`
   - **Current Completed**: `MERN Stack`
   - **Current Focus**: `Revision of MERN Stack + Full-Stack Concepts` 
@@ -306,6 +306,13 @@ All projects have been successfully completed and uploaded to their respective r
 - **Day 208**: `React-Redux` Toolkit in React.js.
 - **Day 209**: `useRef` Hook in React.
 - **Day 210**: `Forms Handling` & Connecting React to `Express` Backend.
+
+---
+
+- #### Project 7: E-Commerce Website for electronics using `Next.js`, `Tailwind CSS`, `MongoDB`, `Clerk`, and `Inngest`
+  - **Day 211:** Overview of the Project – Generated full technical documentation covering architecture, stack, workflows, and key components.
+
+---
 
 ## Getting Started.
 
