@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `214/365`
+  - **Days Completed**: `215/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS`, `Next.js`
   - **Current Completed**: `MERN Stack`
   - **Current Focus**: `Revision of MERN Stack + Full-Stack Concepts` 
@@ -310,10 +310,11 @@ All projects have been successfully completed and uploaded to their respective r
 ---
 
 - #### Project 7: E-Commerce Website for electronics using `Next.js`, `Tailwind CSS`, `MongoDB`, `Clerk`, and `Inngest`
-  - **Day 211:** Overview of the Project – Generated full technical documentation covering architecture, stack, workflows, and key components.
-  - **Day 212:** Initial Next.js e-commerce setup with Clerk authentication, project structure, env configs, global styles, routing, and basic UI for products, cart, orders, and seller dashboard.
-  - **Day 213** Completed all UI work, integrated Clerk for Google Sign-In, and added API keys to the .env file.
-  - **Day 214** Set up MongoDB database and cluster for data storage and implemented login and logout functionality.
+  - **Day 211**: Overview of the Project – Generated full technical documentation covering architecture, stack, workflows, and key components.
+  - **Day 212**: Initial Next.js e-commerce setup with Clerk authentication, project structure, env configs, global styles, routing, and basic UI for products, cart, orders, and seller dashboard.
+  - **Day 213**: Completed all UI work, integrated Clerk for Google Sign-In, and added API keys to the .env file.
+  - **Day 214**: Set up MongoDB database and cluster for data storage and implemented login and logout functionality.
+  - **Day 215**: Today we created Inngest functions to sync Clerk user events (create, update, delete) with MongoDB.
 
 
 ---
