@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `220/365`
+  - **Days Completed**: `221/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS`, `Next.js`
   - **Current Completed**: `MERN Stack`
   - **Current Focus**: `Revision of MERN Stack + Full-Stack Concepts` 
@@ -309,17 +309,18 @@ All projects have been successfully completed and uploaded to their respective r
 
 ---
 
-- #### Project 7: E-Commerce Website for electronics using `Next.js`, `Tailwind CSS`, `MongoDB`, `Clerk`, and `Inngest`
-  - **Day 211**: Overview of the Project – Generated full technical documentation covering architecture, stack, workflows, and key components.
-  - **Day 212**: Initial Next.js e-commerce setup with Clerk authentication, project structure, env configs, global styles, routing, and basic UI for products, cart, orders, and seller dashboard.
-  - **Day 213**: Completed all UI work, integrated Clerk for Google Sign-In, and added API keys to the .env file.
-  - **Day 214**: Set up MongoDB database and cluster for data storage and implemented login and logout functionality.
-  - **Day 215**: Today we created Inngest functions to sync Clerk user events (create, update, delete) with MongoDB.
-  - **Day 216**: Today we Add inngest API route with user sync functions.
-  - **Day 217**: Today we Improve MongoDB connection handling and simplify Inngest user sync.
-  - **Day 218**: Today we Created Shop Page and Footer.
-  - **Day 219**: Trying to resolve an issue encountered while saving data to MongoDB using the Inngest client.
-  - **Day 220**: Same issue Trying saving data to MongoDB using the Inngest client.
+- #### Project 7: Task Mangment System using `React.js`,`MongoDB`,`Express.js` and `Node.js`
+  - **Day 211**: Overview of the project – Generated full technical documentation covering architecture, stack, workflows, and key components.
+  - **Day 212**: Initialized the React app using `npm create vite@latest`.
+  - **Day 213**: Completed all UI work for the `Badge` component.
+  - **Day 214**: Created `Layout` Component to manage application layout`.
+  - **Day 215**: Added navigation to the app using a `Navigation Component`.
+  - **Day 216**: Created the basic `Home` page of the app.
+  - **Day 217**: Improved the `Home page` UI using custom interface design.
+  - **Day 218**: Created the `Task List` page to display all tasks.
+  - **Day 219**: Set up `react-router-dom` for handling application routes.
+  - **Day 220**: Created `helper functions` for `RouteIndex` and `RouteTaskList`.
+  - **Day 221**: Created `Show Task` page, created API, and installed `Express.js`.
   
 
 ---
