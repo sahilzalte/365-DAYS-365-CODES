@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `226/365`
+  - **Days Completed**: `227/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS`, `Next.js`
   - **Current Completed**: `MERN Stack`
   - **Current Focus**: `Revision of MERN Stack + Full-Stack Concepts` 
@@ -326,6 +326,8 @@ All projects have been successfully completed and uploaded to their respective r
   - **Day 224**: Today We Refactor task `routes` and implement task `creation & retrieval`.
   - **Day 225**: Today We Implement `show`, `update`, and `delete` task endpoints.
   - **Day 226**: Today We Add `form` validation with `Zod` to HomePage.
+  - **Day 227**: Today We Add `Task component` and integrate `Toast` notifications.
+
   
 
 ---
