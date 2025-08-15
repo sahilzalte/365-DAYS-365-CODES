@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `228/365`
+  - **Days Completed**: `229/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS`, `Next.js`
   - **Current Completed**: `MERN Stack`
   - **Current Focus**: `Revision of MERN Stack + Full-Stack Concepts` 
@@ -328,8 +328,13 @@ All projects have been successfully completed and uploaded to their respective r
   - **Day 226**: Today We Add `form` validation with `Zod` to HomePage.
   - **Day 227**: Today We Add `Task component` and integrate `Toast` notifications.
   - **Day 228**: Today the project was fully completed – finalized all features, performed end-to-end testing, fixed bugs, optimized UI/UX, and deployed the application successfully.
+    - 🔗 **Live Demo**: [Visit Task Manager](https://https://tasktorch.vercel.app/).
 
+---
 
+- #### Project 8: `Agency Management` - `Frontend` Application
+   - **Day 229**: Overview of the project – Generated full technical documentation covering architecture, stack, workflows, and key components.
+  
   
 
 ---
@@ -359,12 +364,9 @@ You are welcome to reach out via my professional contact form or connect with me
 
 ## Connect with Me
 
-<div align='center'>
+<div align='center' style="gap: 10px; display: flex; justify-content: center; align-items: center;">
   <a href="https://twitter.com/sahilzalte07" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://shorturl.at/NcS7f" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.linkedin.com/in/sahil-zalte-999b55304/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
