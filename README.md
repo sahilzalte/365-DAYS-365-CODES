@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `230/365`
+  - **Days Completed**: `231/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS`, `Next.js`
   - **Current Completed**: `MERN Stack`
   - **Current Focus**: `Revision of MERN Stack + Full-Stack Concepts` 
@@ -335,6 +335,7 @@ All projects have been successfully completed and uploaded to their respective r
 - #### Project 8: `Agency Management` - `Frontend` Application
    - **Day 229**: Overview of the project – Generated full technical documentation covering architecture, stack, workflows, and key components.
    - **Day 230**: Initialized the React app using `npm create vite@latest`.
+   - **Day 231**: Added the React configuration and index.css file for dark mode toggle, and set the primary color.
   
 
 ---
