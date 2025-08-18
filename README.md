@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `231/365`
+  - **Days Completed**: `232/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS`, `Next.js`
   - **Current Completed**: `MERN Stack`
   - **Current Focus**: `Revision of MERN Stack + Full-Stack Concepts` 
@@ -321,12 +321,12 @@ All projects have been successfully completed and uploaded to their respective r
   - **Day 219**: Set up `react-router-dom` for handling application routes.
   - **Day 220**: Created `helper functions` for `RouteIndex` and `RouteTaskList`.
   - **Day 221**: Created `Show Task` page, created API, and installed `Express.js`.
-  - **Day 222**: Today We Enable CORS and JSON parsing in Express app.
-  - **Day 223**: Today We Add basic Task `API` with `routes`,`controller`, and `model`.
-  - **Day 224**: Today We Refactor task `routes` and implement task `creation & retrieval`.
-  - **Day 225**: Today We Implement `show`, `update`, and `delete` task endpoints.
-  - **Day 226**: Today We Add `form` validation with `Zod` to HomePage.
-  - **Day 227**: Today We Add `Task component` and integrate `Toast` notifications.
+  - **Day 222**: Today we Enable CORS and JSON parsing in Express app.
+  - **Day 223**: Today we Add basic Task `API` with `routes`,`controller`, and `model`.
+  - **Day 224**: Today we Refactor task `routes` and implement task `creation & retrieval`.
+  - **Day 225**: Today we Implement `show`, `update`, and `delete` task endpoints.
+  - **Day 226**: Today we Add `form` validation with `Zod` to HomePage.
+  - **Day 227**: Today we Add `Task component` and integrate `Toast` notifications.
   - **Day 228**: Today the project was fully completed – finalized all features, performed end-to-end testing, fixed bugs, optimized UI/UX, and deployed the application successfully.
     - 🔗 **Live Demo**: [Visit Task Manager](https://https://tasktorch.vercel.app/).
 
@@ -336,6 +336,8 @@ All projects have been successfully completed and uploaded to their respective r
    - **Day 229**: Overview of the project – Generated full technical documentation covering architecture, stack, workflows, and key components.
    - **Day 230**: Initialized the React app using `npm create vite@latest`.
    - **Day 231**: Added the React configuration and index.css file for dark mode toggle, and set the primary color.
+   - **Day 232**: Today we added a responsive Navbar component and theme support.
+   
   
 
 ---
