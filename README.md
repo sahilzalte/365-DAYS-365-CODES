@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `232/365`
+  - **Days Completed**: `233/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS`, `Next.js`
   - **Current Completed**: `MERN Stack`
   - **Current Focus**: `Revision of MERN Stack + Full-Stack Concepts` 
@@ -337,6 +337,8 @@ All projects have been successfully completed and uploaded to their respective r
    - **Day 230**: Initialized the React app using `npm create vite@latest`.
    - **Day 231**: Added the React configuration and index.css file for dark mode toggle, and set the primary color.
    - **Day 232**: Today we added a responsive Navbar component and theme support.
+   - **Day 233**: Today we added new homepage sections `(Hero, TrustedBy, Services, Title)` and a theme toggle with persistence via localStorage.
+
    
   
 
@@ -358,7 +360,7 @@ To explore the solutions, please follow these steps:
 You are welcome to reach out via my professional contact form or connect with me on various social platforms.
 
 <div align="center">
-  <a href="https://contact-form-snowy-gamma.vercel.app/" target="_blank">
+  <a href="https://contact-websites.vercel.app/github.html" target="_blank">
     <img src="https://img.shields.io/badge/Professional_Contact-0056B3?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=0056B3" alt="Contact Form"/>
   </a>
 </div>
@@ -368,7 +370,7 @@ You are welcome to reach out via my professional contact form or connect with me
 ## Connect with Me
 
 <div align='center' style="gap: 10px; display: flex; justify-content: center; align-items: center;">
-  <a href="https://twitter.com/sahilzalte07" target="_blank">
+  <a href="https://twitter.com/sai_x_07" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://www.linkedin.com/in/sahil-zalte-999b55304/" target="_blank">
