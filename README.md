@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `234/365`
+  - **Days Completed**: `235/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS`, `Next.js`
   - **Current Completed**: `MERN Stack`
   - **Current Focus**: `Revision of MERN Stack + Full-Stack Concepts` 
@@ -339,6 +339,7 @@ All projects have been successfully completed and uploaded to their respective r
    - **Day 232**: Today we added a responsive Navbar component and theme support.
    - **Day 233**: Today we added new homepage sections `(Hero, TrustedBy, Services, Title)` and a theme toggle with persistence via localStorage.
    - **Day 234**: Today we added ServiceCard component and update Services layout.
+   - **Day 235**: Today we Added `OurWork` component to homepage.
 
    
   
