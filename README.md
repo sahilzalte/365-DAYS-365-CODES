@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `237/365`
+  - **Days Completed**: `238/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS`, `Next.js`
   - **Current Completed**: `MERN Stack`
   - **Current Focus**: `Revision of MERN Stack + Full-Stack Concepts` 
@@ -341,7 +341,8 @@ All projects have been successfully completed and uploaded to their respective r
    - **Day 234**: Today we added ServiceCard component and update Services layout.
    - **Day 235**: Today we Added `OurWork` component to homepage.
    - **Day 236**: Designed the `OurWork` component for the website and created a proper UI supporting both dark and light themes.
-   - **Day 237**: Today I added basic UI improvements using `Tailwind` classes with a `blur` effect.
+   - **Day 237**: Today we added basic UI improvements using `Tailwind` classes with a `blur` effect.
+   - **Day 238**: Today we added `dynamic work` cards to `OurWork` component.
 
    
   
