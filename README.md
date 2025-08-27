@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `240/365`
+  - **Days Completed**: `241/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS`, `Next.js`
   - **Current Completed**: `MERN Stack`
   - **Current Focus**: `Revision of MERN Stack + Full-Stack Concepts` 
@@ -328,7 +328,7 @@ All projects have been successfully completed and uploaded to their respective r
   - **Day 226**: Today we Add `form` validation with `Zod` to HomePage.
   - **Day 227**: Today we Add `Task component` and integrate `Toast` notifications.
   - **Day 228**: Today the project was fully completed – finalized all features, performed end-to-end testing, fixed bugs, optimized UI/UX, and deployed the application successfully.
-    - 🔗 **Live Demo**: [Visit Task Manager](https://https://tasktorch.vercel.app/).
+    - 🔗 **Live Demo**: [Visit Task Manager](https://tasktorch.vercel.app/).
 
 ---
 
@@ -343,8 +343,9 @@ All projects have been successfully completed and uploaded to their respective r
    - **Day 236**: Designed the `OurWork` component for the website and created a proper UI supporting both dark and light themes.
    - **Day 237**: Today we added basic UI improvements using `Tailwind` classes with a `blur` effect.
    - **Day 238**: Today we added `dynamic work` cards to `OurWork` component.
-   - **Day 239**: Today we created Teams section and added it to homepage.
-   - **Day 240**: Today we created the Contact section with a form, added toast notifications, and integrated it into the homepage.
+   - **Day 239**: Today we created `Teams section` and added it to homepage.
+   - **Day 240**: Today we created the `Contact section` with a form, added toast notifications, and integrated it into the homepage.
+   - **Day 241**: Today we created `Footer` component and integrate into App.
 
    
   
