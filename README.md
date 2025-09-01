@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `245/365`
+  - **Days Completed**: `246/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS`, `Next.js`
   - **Current Completed**: `MERN Stack`
   - **Current Focus**: `Revision of MERN Stack + Full-Stack Concepts` 
@@ -350,6 +350,7 @@ All projects have been successfully completed and uploaded to their respective r
    - **Day 243**: Today we added `custom animated cursor` to app.
    - **Day 244**: Today we added motion animation using `Framer Motion` in the Navbar component.
    - **Day 245**: Today we added motion animations to `Hero component`.
+   - **Day 246**: Today we added motion animations to `service and trusted` components.
    
   
 
