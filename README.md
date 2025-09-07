@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `251/365`
+  - **Days Completed**: `252/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS`, `Next.js`
   - **Current Completed**: `MERN Stack`
   - **Current Focus**: `Revision of MERN Stack + Full-Stack Concepts` 
@@ -358,7 +358,10 @@ All projects have been successfully completed and uploaded to their respective r
    - **Day 251**: Today the project was fully completed – finalized all features, performed end-to-end testing, fixed bugs, optimized UI/UX, and deployed the application successfully.
     - 🔗 **Live Demo**: [Visit Agency Website](https://agency-diamond.vercel.app/).
    
-  
+---
+
+  - *JavaScript: Zero to Advanced Development Initiated.*
+  - **Day 252**: Today we learned about JavaScript’s `history`, its `founder`, how it was `invented`, and the differences between `ES5` and `ES6` versions.
 
 ---
 
