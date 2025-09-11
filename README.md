@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `255/365`
+  - **Days Completed**: `256/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS`, `Next.js`
   - **Current Completed**: `MERN Stack`
   - **Current Focus**: `Revision of MERN Stack + Full-Stack Concepts` 
@@ -365,7 +365,7 @@ All projects have been successfully completed and uploaded to their respective r
   - **Day 253**: Today we demonstrates variable declarations using `var, let, and const` as well as declaration and initialization concepts.
   - **Day 254**: Today we learned about `block`, `functions`, `global` scope concepts.
   - **Day 255**: Today we learned example on `TDZ` in JS.
-  
+  - **Day 256**: Today we `JavaScript hoisting`.  
 
 
 ---
