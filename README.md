@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `265/365`
+  - **Days Completed**: `266/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS`, `Next.js`
   - **Current Completed**: `MERN Stack`
   - **Current Focus**: `Revision of MERN Stack + Full-Stack Concepts` 
@@ -366,7 +366,7 @@ All projects have been successfully completed and uploaded to their respective r
   - **Day 254**: Today we learned about `block`, `functions`, `global` scope concepts.
   - **Day 255**: Today we learned example on `TDZ` in JS.
   - **Day 256**: Today we `JavaScript hoisting`.  
-  - **Day 257**: Today we solve basic JS scope exercise.
+  - **Day 257**: Today we solve basic `JS scope` exercise.
   - **Day 258**: Today we learned about `JavaScript Data Types`.
   - **Day 259**: Today we Demonstrates JavaScript `primitive data type`.
   - **Day 260**: Today we demonstrated variable declarations for `Symbol` and `BigInt`.
@@ -375,6 +375,7 @@ All projects have been successfully completed and uploaded to their respective r
   - **Day 263**: Today we learned about `Arithmetic Operators`, including a basic overview of all types of operators.
   - **Day 264**: Today we learned about `Logical Operators`.
   - **Day 265**: Today we demonstrated the use of `assignment`, `comparison`, `logical`, `unary`, `ternary`, `typeof`, and `instanceof` operators.
+  - **Day 266**: Today we solved various exercises on `JavaScript operators`.
 
   
 
