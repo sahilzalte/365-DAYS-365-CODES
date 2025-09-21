@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `264/365`
+  - **Days Completed**: `265/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS`, `Next.js`
   - **Current Completed**: `MERN Stack`
   - **Current Focus**: `Revision of MERN Stack + Full-Stack Concepts` 
@@ -374,6 +374,7 @@ All projects have been successfully completed and uploaded to their respective r
   - **Day 262**: Today we learned about `type coercion` and `equality`, and completed the section on `data types` and `type systems`.
   - **Day 263**: Today we learned about `Arithmetic Operators`, including a basic overview of all types of operators.
   - **Day 264**: Today we learned about `Logical Operators`.
+  - **Day 265**: Today we demonstrated the use of `assignment`, `comparison`, `logical`, `unary`, `ternary`, `typeof`, and `instanceof` operators.
 
   
 
