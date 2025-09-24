@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `268/365`
+  - **Days Completed**: `269/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS`, `Next.js`
   - **Current Completed**: `MERN Stack`
   - **Current Focus**: `Revision of MERN Stack + Full-Stack Concepts` 
@@ -378,6 +378,7 @@ All projects have been successfully completed and uploaded to their respective r
   - **Day 266**: Today we solved various exercises on `JavaScript operators`.
   - **Day 267**: Today we learned about control flow `if`, `else`, `else if`, and `switch` statements.
   - **Day 268**: Today we learned about `early return pattern`.
+  - **Day 269**: Today we solve basic `Js Control Flow` exercise.
   
 
   
