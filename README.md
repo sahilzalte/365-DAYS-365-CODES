@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `270/365`
+  - **Days Completed**: `271/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS`, `Next.js`
   - **Current Completed**: `MERN Stack`
   - **Current Focus**: `Revision of MERN Stack + Full-Stack Concepts` 
@@ -380,6 +380,7 @@ All projects have been successfully completed and uploaded to their respective r
   - **Day 268**: Today we learned about `early return pattern`.
   - **Day 269**: Today we solve basic `Js Control Flow` exercise.
   - **Day 270**: Today we learned the basics of `for` loop and `while` loop, and gained a clear understanding of how loops work.
+  - **Day 271**: Today we learned the `for` loop.
   
 
   
