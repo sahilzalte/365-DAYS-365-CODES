@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `273/365`
+  - **Days Completed**: `274/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS`, `Next.js`
   - **Current Completed**: `MERN Stack`
   - **Current Focus**: `Revision of MERN Stack + Full-Stack Concepts` 
@@ -383,6 +383,7 @@ All projects have been successfully completed and uploaded to their respective r
   - **Day 271**: Today we learned the `for` loop.
   - **Day 272**: Today we learned the `while` loop.
   - **Day 273**: Today we learned the `do-while` loop.
+  - **Day 274**: Today we learned the `break and continue` in loops.
   
 
   
