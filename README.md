@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `282/365`
+  - **Days Completed**: `283/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS`, `Next.js`
   - **Current Completed**: `MERN Stack`
   - **Current Focus**: `Revision of MERN Stack + Full-Stack Concepts` 
@@ -392,6 +392,7 @@ All projects have been successfully completed and uploaded to their respective r
   - **Day 280**: Today we solved next 4 exercises questions on `JavaScript Loops`.
   - **Day 281**: Today we solved exercises questions on `Break`.
   - **Day 282**: Today we solved next 5 exercises questions on `JavaScript Loops`.
+  - **Day 283**: Today we solved next 5 exercises questions on `JavaScript Loops`.
 
   
 
