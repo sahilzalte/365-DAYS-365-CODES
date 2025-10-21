@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `295/365`
+  - **Days Completed**: `296/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS`, `Next.js`
   - **Current Completed**: `MERN Stack`
   - **Current Focus**: `Revision of MERN Stack + Full-Stack Concepts` 
@@ -405,6 +405,7 @@ All projects have been successfully completed and uploaded to their respective r
   - **Day 293**: Today we learned about `Default Parameters`, `Rest Parameters`, `Return & Early Return`, `First-Class` Functions, `Higher-Order` Functions, `Pure` vs `Impure` Functions, `Closures`, `Lexical Scoping`, `IIFE` (Immediately Invoked Function Expression), and Function `Hoisting` in JavaScript.
   - **Day 294**: Today we solved exercise question on `JavaScript Functions`.
   - **Day 295**: Today we solved exercise question on `JavaScript Functions`.
+  - **Day 296**: Today we Created a `BMI` Calculator in `JavaScript Functions`.
 
   
 
