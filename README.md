@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `296/365`
+  - **Days Completed**: `297/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS`, `Next.js`
   - **Current Completed**: `MERN Stack`
   - **Current Focus**: `Revision of MERN Stack + Full-Stack Concepts` 
@@ -406,6 +406,7 @@ All projects have been successfully completed and uploaded to their respective r
   - **Day 294**: Today we solved exercise question on `JavaScript Functions`.
   - **Day 295**: Today we solved exercise question on `JavaScript Functions`.
   - **Day 296**: Today we Created a `BMI` Calculator in `JavaScript Functions`.
+  - **Day 297**: Today we Created a `Reusable Discount Calculator` using `JavaScript Functions`.
 
   
 
