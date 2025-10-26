@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `300/365`
+  - **Days Completed**: `301/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS`, `Next.js`
   - **Current Completed**: `MERN Stack`
   - **Current Focus**: `Revision of MERN Stack + Full-Stack Concepts` 
@@ -410,6 +410,7 @@ All projects have been successfully completed and uploaded to their respective r
   - **Day 298**: Today we Created a `Reusable Counter closure` using `JavaScript Functions`.
   - **Day 299**: Today we Created a `Value Transformer` using `Pure Function`.
   - **Day 300**: Today we Created a `isolated Variables` using `IIFE`.
+  - **Day 301**: Today we explored Arrow vs Regular Functions, understood this behavior, Function Hoisting, and the Temporal Dead Zone (TDZ) in JavaScript.
 
   
 
