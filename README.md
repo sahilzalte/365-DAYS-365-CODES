@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `302/365`
+  - **Days Completed**: `303/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS`, `Next.js`
   - **Current Completed**: `MERN Stack`
   - **Current Focus**: `Revision of MERN Stack + Full-Stack Concepts` 
@@ -412,7 +412,7 @@ All projects have been successfully completed and uploaded to their respective r
   - **Day 300**: Today we Created a `isolated Variables` using `IIFE`.
   - **Day 301**: Today we explored Arrow vs Regular Functions, understood this behavior, Function Hoisting, and the Temporal Dead Zone (TDZ) in JavaScript.
   - **Day 302**: Today we learned about `JavaScript Arrays`, including creation, accessing elements, and modifying arrays.
-
+  - **Day 303**: Today we learned about `JavaScript Array Methods`, including `push`, `pop`, `shift`, `unshift`, `splice`, `slice`, `reverse`, `sort`, and various iteration methods.
 ---
 
 ## Getting Started.
