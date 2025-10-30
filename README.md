@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `305/365`
+  - **Days Completed**: `306/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS`, `Next.js`
   - **Current Completed**: `MERN Stack`
   - **Current Focus**: `Revision of MERN Stack + Full-Stack Concepts` 
@@ -361,6 +361,7 @@ All projects have been successfully completed and uploaded to their respective r
 ---
 
   - *JavaScript: Zero to Advanced Development Initiated.*
+  - ###### Section 1: JavaScript Core Concepts: From Basics to Functions and Data Structures
   - **Day 252**: Today we learned about JavaScript’s `history`, its `founder`, how it was `invented`, and the differences between `ES5` and `ES6` versions.
   - **Day 253**: Today we demonstrates variable declarations using `var, let, and const` as well as declaration and initialization concepts.
   - **Day 254**: Today we learned about `block`, `functions`, `global` scope concepts.
@@ -414,9 +415,13 @@ All projects have been successfully completed and uploaded to their respective r
   - **Day 302**: Today we learned about `JavaScript Arrays`, including creation, accessing elements, and modifying arrays.
   - **Day 303**: Today we learned about `JavaScript Array Methods`, including `push`, `pop`, `shift`, `unshift`, `splice`, `slice`, `reverse`, `sort`, and various iteration methods.
   - **Day 304**: Today we solved various exercise questions on `JavaScript Array Methods`.
-  - **Day 305**: Today we learned about `JavaScript Objects`, including creation, accessing elements, and modifying objects.
+  - **Day 305**: Today we learned about `JavaScript Objects`, including creation, accessing elements, modifying objects and  `JavaScript Object Methods`, including `Object.keys()`, `Object.values()` and `Object.entries()`.
+  - **Day 306**: Today we solved exercise questions on `JavaScript Objects`.
+
+  - ###### Section 1 Completed
 
 ---
+
 
 ## Getting Started.
 
