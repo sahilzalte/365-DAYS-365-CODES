@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `307/365`
+  - **Days Completed**: `308/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS`, `Next.js`
   - **Current Completed**: `MERN Stack`
   - **Current Focus**: `Revision of MERN Stack + Full-Stack Concepts` 
@@ -424,7 +424,7 @@ All projects have been successfully completed and uploaded to their respective r
 
   - ###### Section 2: DOM Manipulation and Advanced JavaScript Concepts
   - **Day 307**: Today we practiced DOM manipulation using methods like `getElementsByClassName`, `querySelectorAll`, and `querySelector`, and updated HTML elements using `textContent` and `innerHTML`.
-
+  - **Day 308**: Today we learned about `Attribute Manipulation` and `Dynamic DOM Manipulation` in JavaScript - including `getAttribute`, `setAttribute`, `removeAttribute`, and creating, appending, prepending, and removing elements dynamically.
 
 ## Getting Started.
 
