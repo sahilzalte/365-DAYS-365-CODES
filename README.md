@@ -426,6 +426,7 @@ All projects have been successfully completed and uploaded to their respective r
   - **Day 307**: Today we practiced DOM manipulation using methods like `getElementsByClassName`, `querySelectorAll`, and `querySelector`, and updated HTML elements using `textContent` and `innerHTML`.
   - **Day 308**: Today we learned about `Attribute Manipulation` and `Dynamic DOM Manipulation` in JavaScript - including `getAttribute`, `setAttribute`, `removeAttribute`, and creating, appending, prepending, and removing elements dynamically.
   - **Day 309**: Today we learned about `Style and Class Manipulation` in JavaScript — including changing element styles dynamically using the `.style` property and managing CSS classes using `.classList.add()`, `.remove()`, and `.toggle()` methods.
+  - **Day 310**: Today we solved 2 exercise questions on `JavaScript DOM Manipulation`.
   
 ## Getting Started.
 
