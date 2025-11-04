@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `309/365`
+  - **Days Completed**: `311/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS`, `Next.js`
   - **Current Completed**: `MERN Stack`
   - **Current Focus**: `Revision of MERN Stack + Full-Stack Concepts` 
@@ -417,6 +417,7 @@ All projects have been successfully completed and uploaded to their respective r
   - **Day 304**: Today we solved various exercise questions on `JavaScript Array Methods`.
   - **Day 305**: Today we learned about `JavaScript Objects`, including creation, accessing elements, modifying objects and  `JavaScript Object Methods`, including `Object.keys()`, `Object.values()` and `Object.entries()`.
   - **Day 306**: Today we solved exercise questions on `JavaScript Objects`.
+  
 
   - ###### Section 1 Completed
 
@@ -427,6 +428,7 @@ All projects have been successfully completed and uploaded to their respective r
   - **Day 308**: Today we learned about `Attribute Manipulation` and `Dynamic DOM Manipulation` in JavaScript - including `getAttribute`, `setAttribute`, `removeAttribute`, and creating, appending, prepending, and removing elements dynamically.
   - **Day 309**: Today we learned about `Style and Class Manipulation` in JavaScript — including changing element styles dynamically using the `.style` property and managing CSS classes using `.classList.add()`, `.remove()`, and `.toggle()` methods.
   - **Day 310**: Today we solved 2 exercise questions on `JavaScript DOM Manipulation`.
+  - **Day 311**: Today we solved 2 exercise questions on `JavaScript DOM Manipulation`.
   
 ## Getting Started.
 
