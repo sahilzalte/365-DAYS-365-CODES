@@ -1,0 +1,13 @@
+*{
+    background: #000000;
+    color: #fff;
+}
+.highlight{
+    background: green;
+    color: #000;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 5px;
+    border-radius: 5px;
+    
+}
