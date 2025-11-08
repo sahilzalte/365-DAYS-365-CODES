@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `314/365`
+  - **Days Completed**: `315/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS`, `Next.js`
   - **Current Completed**: `MERN Stack`
   - **Current Focus**: `Revision of MERN Stack + Full-Stack Concepts` 
@@ -432,6 +432,7 @@ All projects have been successfully completed and uploaded to their respective r
   - **Day 312**: Today we solved 2 exercise questions on `JavaScript DOM Manipulation`.
   - **Day 313**: Today we solved 2 exercise questions on `JavaScript DOM Manipulation`.
   - **Day 314**: Today we solved the final question on `JavaScript DOM Manipulation` and finalized our understanding of the DOM.
+  - **Day 315**: Today we practiced Event Listeners in JavaScript, especially the use of `addEventListener()` for handling user interactions dynamically.
   
 ## Getting Started.
 
