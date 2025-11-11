@@ -1,0 +1,31 @@
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html,
+        body {
+            width: 100%;
+            height: 100%;
+        }
+
+        #main {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 100%;
+            height: 100%;
+            background-color: #222;
+            font-family: 'Helvetica Now Display';
+            box-sizing: border-box;
+            color: white;
+        }
+        h1{
+            color: #555;
+            font-size: 10rem;
+            font-weight: 6f00;
+            user-select: none;
+
+
+        }
