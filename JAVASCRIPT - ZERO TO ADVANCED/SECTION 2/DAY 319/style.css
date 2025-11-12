@@ -1,0 +1,127 @@
+/* ===== Reset and Base Styles ===== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    background: linear-gradient(135deg, #1e1e2f, #252545);
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    gap: 40px;
+    padding: 20px;
+}
+
+/* ===== Form Styling ===== */
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    background: rgba(255, 255, 255, 0.1);
+    padding: 25px 35px;
+    border-radius: 15px;
+    box-shadow: 0 0 15px rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    width: 300px;
+    transition: all 0.3s ease;
+}
+
+form:hover {
+    transform: scale(1.03);
+    box-shadow: 0 0 25px rgba(255, 255, 255, 0.2);
+}
+
+form input[type="text"],
+form input[type="email"] {
+    padding: 10px;
+    border-radius: 8px;
+    border: none;
+    outline: none;
+    background: rgba(255, 255, 255, 0.15);
+    color: #fff;
+    font-size: 14px;
+}
+
+form input::placeholder {
+    color: #ccc;
+}
+
+form input[type="submit"] {
+    background: #4e9eff;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+
+form input[type="submit"]:hover {
+    background: #368cff;
+    transform: translateY(-2px);
+}
+
+/* ===== Profile Card Styling ===== */
+.card {
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 20px;
+    padding: 25px;
+    text-align: center;
+    width: 260px;
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.1);
+    transition: all 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 0 25px rgba(255, 255, 255, 0.2);
+}
+
+.profile-pic {
+    width: 100px;
+    height: 100px;
+    margin: 0 auto 15px;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 3px solid #4e9eff;
+    box-shadow: 0 0 15px rgba(78, 158, 255, 0.5);
+}
+
+.profile-pic img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.card h3 {
+    margin-bottom: 5px;
+    font-size: 20px;
+    color: #fff;
+}
+
+.card h5 {
+    margin-bottom: 10px;
+    color: #4e9eff;
+    font-weight: 500;
+}
+
+.card p {
+    font-size: 14px;
+    color: #ccc;
+}
+
+/* ===== Responsive ===== */
+@media (max-width: 480px) {
+
+    form,
+    .card {
+        width: 90%;
+    }
+}
