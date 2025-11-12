@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `318/365`
+  - **Days Completed**: `319/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS`, `Next.js`
   - **Current Completed**: `MERN Stack`
   - **Current Focus**: `Revision of MERN Stack + Full-Stack Concepts` 
@@ -436,6 +436,7 @@ All projects have been successfully completed and uploaded to their respective r
   - **Day 316**: Today we explored Common Event Listeners in JavaScript. We implemented a `Click` Event Listener that changes the color of an `<h1>` element when clicked, and an `Input` Event Listener that logs the user’s input dynamically as they type.
   - **Day 317**: Today we learned about the Change Event Listener in JavaScript. We implemented a `Change` Event Listener for a `<select>` element that updates a `<div>` with the selected device name.
   - **Day 318**: Today we solved 2 exercise questions on `JavaScript DOM Manipulation` and created two mini projects — `KeyPress Visualizer` (displays pressed keys in real time) and `SmartUploader` (a custom file upload button using event listeners).
+  - **Day 319**: Today we learned about the `Submit` Event Listener in JavaScript and Created a basic structure for a form submission.
 
 ## Getting Started.
 
