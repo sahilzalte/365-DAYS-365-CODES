@@ -1,0 +1,16 @@
+* {
+    background-color: #111;
+    color: #fff;
+}
+
+.abcd {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    cursor: pointer;
+}
