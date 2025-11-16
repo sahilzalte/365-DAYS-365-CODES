@@ -1,0 +1,27 @@
+* {
+    background-color: #222;
+    color: #fff;
+}
+
+body {
+    overflow: hidden;
+    position: relative;
+}
+
+.abcd {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    cursor: pointer;
+    position: absolute;
+    transition: all cubic-bezier(0.19, 1, 0.22, 1) 1s;
+}
+
+.abcd {
+    transform: translate(-50%, -50%);
+}
