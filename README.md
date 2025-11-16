@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `322/365`
+  - **Days Completed**: `323/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS`, `Next.js`
   - **Current Completed**: `MERN Stack`
   - **Current Focus**: `Revision of MERN Stack + Full-Stack Concepts` 
@@ -440,7 +440,7 @@ All projects have been successfully completed and uploaded to their respective r
   - **Day 320**: Today we implemented the `Submit` Event Listener to dynamically create user profile cards based on form input.
   - **Day 321**: Today we implemented the `mouseover` & `mouseout` Event Listener.
   - **Day 322**: Today we implemented the `mousemove` Event Listener to create a dynamic cursor effect that follows the mouse movement.
-
+  - **Day 323**: Today we explored `Event Object` properties and methods in JavaScript, including `event.target`, `event.type`, `event.preventDefault()`.
 
 ## Getting Started.
 
