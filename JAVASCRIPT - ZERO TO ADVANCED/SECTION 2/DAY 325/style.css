@@ -1,0 +1,11 @@
+/* Global */
+body {
+    background-color: #222;
+    color: #fff;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
