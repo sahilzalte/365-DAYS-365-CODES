@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `324/365`
+  - **Days Completed**: `325/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS`, `Next.js`
   - **Current Completed**: `MERN Stack`
   - **Current Focus**: `Revision of MERN Stack + Full-Stack Concepts` 
@@ -442,6 +442,8 @@ All projects have been successfully completed and uploaded to their respective r
   - **Day 322**: Today we implemented the `mousemove` Event Listener to create a dynamic cursor effect that follows the mouse movement.
   - **Day 323**: Today we explored `Event Object` properties and methods in JavaScript, including `event.target`, `event.type`, `event.preventDefault()`.
   - **Day 324**: Today we learned about `Event Bubbling` and `Event Delegation` in JavaScript, and implemented a project that utilizes event delegation to handle click events on dynamically created buttons.
+  - **Day 325**: Today we Created a `Live Character Counter` and finalized our understanding of Event Listeners in JavaScript.
+
 ## Getting Started.
 
 To explore the solutions, please follow these steps:
