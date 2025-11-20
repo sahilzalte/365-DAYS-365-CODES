@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `326/365`
+  - **Days Completed**: `327/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS`, `Next.js`
   - **Current Completed**: `MERN Stack`
   - **Current Focus**: `Revision of MERN Stack + Full-Stack Concepts` 
@@ -444,6 +444,8 @@ All projects have been successfully completed and uploaded to their respective r
   - **Day 324**: Today we learned about `Event Bubbling` and `Event Delegation` in JavaScript, and implemented a project that utilizes event delegation to handle click events on dynamically created buttons.
   - **Day 325**: Today we Created a `Live Character Counter` and finalized our understanding of Event Listeners in JavaScript.
   - **Day 326**: Today we Started learning about `Form Validation` in JavaScript, including basic validation techniques.
+  - **Day 327**: Today we Created a `Email Validator` using JavaScript Regular Expressions for form validation.
+
 ## Getting Started.
 
 To explore the solutions, please follow these steps:
