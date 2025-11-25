@@ -1,0 +1,42 @@
+/* style.css */
+:root {
+    --bg-light: #ffffff;
+    --text-light: #1a1a1a;
+
+    --bg-dark: #1e1e1e;
+    --text-dark: #f5f5f5;
+}
+
+body.light {
+    background-color: var(--bg-light);
+    color: var(--text-light);
+}
+
+body.dark {
+    background-color: var(--bg-dark);
+    color: var(--text-dark);
+}
+
+body {
+    margin: 0;
+    font-family: "Helvetica Now Display", Helvetica, sans-serif;
+    transition:
+        background-color 0.3s ease,
+        color 0.3s ease;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 6px;
+    background-color: #999;
+    color: #fff;
+}
