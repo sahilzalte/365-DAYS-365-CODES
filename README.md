@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `336/365`
+  - **Days Completed**: `337/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS`, `Next.js`
   - **Current Completed**: `MERN Stack`
   - **Current Focus**: `Revision of MERN Stack + Full-Stack Concepts` 
@@ -454,7 +454,8 @@ All projects have been successfully completed and uploaded to their respective r
   - **Day 334**: Today we Completed `User Cards` Project Using `All DOM Concepts`.
   - **Day 335**: Today we started the basic project `Caller Notes` and generated all the required HTML and CSS for it.
   - **Day 336**: Today we Find All necessary `DOM elements` for project.
-  
+  - **Day 337**: Today we Implemented `Add Note` and `Close Form` functionality in the `Caller Notes` project.
+
 ## Getting Started.
 
 To explore the solutions, please follow these steps:
