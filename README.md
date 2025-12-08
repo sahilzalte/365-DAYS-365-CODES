@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `345/365`
+  - **Days Completed**: `346/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS`, `Next.js`
   - **Current Completed**: `MERN Stack`
   - **Current Focus**: `Revision of MERN Stack + Full-Stack Concepts` 
@@ -470,6 +470,7 @@ All projects have been successfully completed and uploaded to their respective r
   - **Day 343**: Today we started learning about `this` keyword and `call`, `apply`, `bind` methods in JavaScript.
   - **Day 344**: Today we Completed the Basic project of `User Profile Card` using `this` keyword and `call`, `apply`, `bind` methods.
   - **Day 345**: Today we started learning about `Object oriented Programing` in JavaScript.
+  - **Day 346**: Today we Continued learning about `Object oriented Programing` in JavaScript and implemented basic classes and objects.
 
   
 ## Getting Started.
