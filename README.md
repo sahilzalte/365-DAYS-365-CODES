@@ -473,6 +473,7 @@ All projects have been successfully completed and uploaded to their respective r
   - **Day 346**: Today we Continued learning about `Object oriented Programing` in JavaScript and implemented basic classes and objects.
   - **Day 347**: Today we learned how constructors work in class-based implementations, along with `prototypal inheritance`.
   - **Day 348**: Today we learned about JavaScript `callbacks`, callback hell, `promises` with resolve/reject, `async–await`, and handling errors using `try–catch`.
+  - **Day 349**: Today we Learned about `fetch API` for making network requests in JavaScript, handling responses, and working with promises.
 
   
 ## Getting Started.
