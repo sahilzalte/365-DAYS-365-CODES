@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Card</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body class="p-4 bg-gray-100 flex items-center justify-center min-h-screen">
+    <div class="w-full max-w-5xl">
+        <!-- A big Button -->
+        <button id="loadUsers" class="cursor-pointer bg-blue-500 text-white py-2 px-4 rounded text-lg">Load Users</button>
+
+        <!-- Users container (separate from the button so clearing it won't remove the button) -->
+        <div class="users mt-6 flex flex-wrap justify-center"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
