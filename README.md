@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `349/365`
+  - **Days Completed**: `350/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS`, `Next.js`
   - **Current Completed**: `MERN Stack`
   - **Current Focus**: `Revision of MERN Stack + Full-Stack Concepts` 
@@ -361,7 +361,9 @@ All projects have been successfully completed and uploaded to their respective r
 ---
 
   - *JavaScript: Zero to Advanced Development Initiated.*
+
   - ###### Section 1: JavaScript Core Concepts: From Basics to Functions and Data Structures
+
   - **Day 252**: Today we learned about JavaScript’s `history`, its `founder`, how it was `invented`, and the differences between `ES5` and `ES6` versions.
   - **Day 253**: Today we demonstrates variable declarations using `var, let, and const` as well as declaration and initialization concepts.
   - **Day 254**: Today we learned about `block`, `functions`, `global` scope concepts.
@@ -424,6 +426,7 @@ All projects have been successfully completed and uploaded to their respective r
 ---
 
   - ###### Section 2: DOM Manipulation and Advanced JavaScript Concepts
+
   - **Day 307**: Today we practiced DOM manipulation using methods like `getElementsByClassName`, `querySelectorAll`, and `querySelector`, and updated HTML elements using `textContent` and `innerHTML`.
   - **Day 308**: Today we learned about `Attribute Manipulation` and `Dynamic DOM Manipulation` in JavaScript - including `getAttribute`, `setAttribute`, `removeAttribute`, and creating, appending, prepending, and removing elements dynamically.
   - **Day 309**: Today we learned about `Style and Class Manipulation` in JavaScript — including changing element styles dynamically using the `.style` property and managing CSS classes using `.classList.add()`, `.remove()`, and `.toggle()` methods.
@@ -463,6 +466,7 @@ All projects have been successfully completed and uploaded to their respective r
 ---
 
   - ###### Section 3: Modern JavaScript – Async Programming, OOP & Core Internals
+
   - **Day 339**: Today we started learning about JavaScript scope, execution context, lexical scope, and how closures preserve private data.
   - **Day 340**: Today we started the basic project  `Toast Notifications` and generated all the required HTML and JS for it.
   - **Day 341**: Today we Partially Completed the `Toast Notifications` Project.
@@ -474,7 +478,14 @@ All projects have been successfully completed and uploaded to their respective r
   - **Day 347**: Today we learned how constructors work in class-based implementations, along with `prototypal inheritance`.
   - **Day 348**: Today we learned about JavaScript `callbacks`, callback hell, `promises` with resolve/reject, `async–await`, and handling errors using `try–catch`.
   - **Day 349**: Today we Learned about `fetch API` for making network requests in JavaScript, handling responses, and working with promises.
+  - **Day 350**: Today we Created a `Dynamic Cards` Using `Random User API` and `fetch API`.
 
+
+    - ###### Section 3 Completed
+
+---
+
+  
   
 ## Getting Started.
 
