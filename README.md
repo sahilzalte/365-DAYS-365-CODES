@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `350/365`
+  - **Days Completed**: `351/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS`, `Next.js`
   - **Current Completed**: `MERN Stack`
   - **Current Focus**: `Revision of MERN Stack + Full-Stack Concepts` 
@@ -485,6 +485,9 @@ All projects have been successfully completed and uploaded to their respective r
 
 ---
 
+  - ###### Section 3: JavaScript for Placements
+  
+  - **Day 351**: Today we started learning about `JavaScript Interview Questions` covering common topics and concepts.
   
   
 ## Getting Started.
