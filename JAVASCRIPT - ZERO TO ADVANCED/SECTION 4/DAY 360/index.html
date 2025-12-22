@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Lazy Loading</title>
+    <style>
+        body {
+            height: 200vh;
+            /* forces scroll */
+            padding-top: 20px;
+        }
+
+        .spacer {
+            height: 800px;
+        }
+
+        img {
+            display: block;
+            margin: 20px auto;
+            width: 300px;
+            height: 200px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h2>Scroll Down</h2>
+
+    <div class="spacer"></div>
+
+    <img class="lazy-image"
+        src="1.png"
+        data-src="image1.jpg" alt="Lazy Image 1" />
+
+    <div class="spacer"></div>
+
+    <img class="lazy-image"
+        src="2.png"
+        data-src="image2.jpg" alt="Lazy Image 2" />
+    <script>
+        const lazyImages = document.querySelectorAll(".lazy-image");
+
+        const observer = new IntersectionObserver((entries, observer) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    const img = entry.target;
+                    img.src = img.dataset.src;
+                    observer.unobserve(img);
+                }
+            });
+        });
+
+        lazyImages.forEach(img => observer.observe(img));
+    </script>
+
+</body>
+
+</html>
