@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `362/365`
+  - **Days Completed**: `363/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS`, `Next.js`
   - **Current Completed**: `MERN Stack`
   - **Current Focus**: `Revision of MERN Stack + Full-Stack Concepts` 
@@ -499,6 +499,7 @@ All projects have been successfully completed and uploaded to their respective r
   - **Day 360**: Today we learned about `Lazy Loading` in JavaScript for optimizing resource loading.
   - **Day 361**: Today we learned basic concepts of `Code Splitting` in JavaScript.
   - **Day 362**: Today we learned about `Code Splitting` in JavaScript with practical examples.
+  - **Day 363**: Today we learned about `Reflows and Repaint` in JavaScript for optimizing rendering performance.
   
   
 ## Getting Started.
