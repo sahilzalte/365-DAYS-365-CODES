@@ -528,7 +528,7 @@ To explore the solutions, please follow these steps:
 
 1.  **Clone the repository** to your local machine using the following command:
     ```bash
-    git clone https://github.com/sahilzalte/365-DAYS-365-CODES.git
+    git clone https://github.com/sahilzalte/Build-In-Public-365.git
     ```
 
 
