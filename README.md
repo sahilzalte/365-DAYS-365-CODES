@@ -6,7 +6,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**  
 Here's a quick look at my progress over time:
 
-  - **Days Completed**: `364/365`
+  - **Days Completed**: `365/365`
   - **Languages Practiced**: `HTML`, `CSS`, `JavaScript`, `React.js`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS`, `Next.js`
   - **Current Completed**: `MERN Stack`
   - **Current Focus**: `Revision of MERN Stack + Full-Stack Concepts` 
@@ -485,7 +485,7 @@ All projects have been successfully completed and uploaded to their respective r
 
 ---
 
-  - ###### Section 3: JavaScript for Placements
+  - ###### Section 4: JavaScript for Placements
   
   - **Day 351**: Today we Find the `JavaScript Interview Questions` covering common topics and concepts.
   - **Day 352**: Today we Started learning about `Design Patterns` and learned about `Module Pattern` and `Revealing Module Pattern` in JavaScript.
@@ -501,6 +501,25 @@ All projects have been successfully completed and uploaded to their respective r
   - **Day 362**: Today we learned about `Code Splitting` in JavaScript with practical examples.
   - **Day 363**: Today we learned about `Reflows and Repaint` in JavaScript for optimizing rendering performance.
   - **Day 364**: Today we learned about `Memory Leaks` in JavaScript and how to prevent them.
+  - **Day 365**: Today we learned about `Event Loop` in JavaScript and how it handles asynchronous operations.
+
+
+    - ###### Section 4 Completed
+
+---
+
+## 🎉 365 Days Challenge Completed Successfully! 🎉
+
+**Congratulations!** The 365 Days 365 Codes challenge has been completed successfully! 🚀
+
+- **Total Days**: 365/365 ✅
+- **Skills Mastered**: HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, Next.js, Tailwind CSS
+- **Projects Built**: 8 Full-Stack Projects
+- **Concepts Learned**: DOM Manipulation, Async Programming, OOP, Design Patterns, Performance Optimization, and much more!
+
+This journey has been an incredible learning experience, covering everything from the basics to advanced JavaScript concepts, full-stack development, and real-world project implementations.
+
+---
   
   
 ## Getting Started.
